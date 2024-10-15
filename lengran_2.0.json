@@ -14,17 +14,17 @@
           "developerName": "Avangelista",
           "subtitle": "状态栏自定义工具，支持iOS14.0-16.1.2",
           "localizedDescription": "状态栏自定义工具，支持iOS14.0-16.1.2",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/StatusMagic.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/StatusMagic.png",
           "tintColor": "#ef9837",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/StatusMagic.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/StatusMagic.png"
           ],
           "versions": [
               {
                 "version": "1.0.2",
                 "date": "2023-02-08",
                 "localizedDescription": "修复在iOS15上“隐藏DND”。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/StatusMagic_1.0.2.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/StatusMagic_1.0.2.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -33,7 +33,7 @@
                 "version": "1.0.1",
                 "date": "2023-02-07",
                 "localizedDescription": "1.修复VPN图标隐藏异常的问题；\n2.修复了A12设备上出现的问题；\n3.适配iOS16.2测试版；\n4.为那些仍有问题的人添加了“替代设置程序”；\n5.运营商文本修改方式优化；\n6.如果TrollStore被错误检测时，添加了强制使用MDC的选项；\n7.由于未知问题，“隐藏电池图标”的选项在iPad上不再可用。",
-                "downloadURL": "https://github.com/Avangelista/StatusMagic/releases/download/1.0.1/StatusMagic.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Avangelista/StatusMagic/releases/download/1.0.1/StatusMagic.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -42,7 +42,7 @@
                 "version": "1.0",
                 "date": "2023-02-04",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Avangelista/StatusMagic/releases/download/1.0/StatusMagic.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Avangelista/StatusMagic/releases/download/1.0/StatusMagic.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -56,17 +56,17 @@
           "developerName": "LeminLimez",
           "subtitle": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
           "localizedDescription": "状态栏时钟添加秒数及日期，支持iOS14.0-15.4.1",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/SecondHand.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/SecondHand.png",
           "tintColor": "#e5ab1e",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/SecondHand.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/SecondHand.png"
           ],
           "versions": [
               {
                 "version": "1.3",
                 "date": "2023-10-03",
                 "localizedDescription": "1.支持iOS16.3及以上版本；\n2.在显示不支持之前，会进行读取权限的检查。",
-                "downloadURL": "https://github.com/leminlimez/SecondHand/releases/download/1.3/SecondHand.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/leminlimez/SecondHand/releases/download/1.3/SecondHand.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -75,7 +75,7 @@
                 "version": "1.2",
                 "date": "2023-03-11",
                 "localizedDescription": "1.添加了各种日期格式选项；\n2.添加了启动时的新版本检查。",
-                "downloadURL": "https://github.com/leminlimez/SecondHand/releases/download/1.2/SecondHand.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/leminlimez/SecondHand/releases/download/1.2/SecondHand.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -84,7 +84,7 @@
                 "version": "1.1",
                 "date": "2023-03-04",
                 "localizedDescription": "支持iOS测试版本。",
-                "downloadURL": "https://github.com/leminlimez/SecondHand/releases/download/1.1/SecondHand.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/leminlimez/SecondHand/releases/download/1.1/SecondHand.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -93,7 +93,7 @@
                 "version": "1.0",
                 "date": "2023-03-04",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/leminlimez/SecondHand/releases/download/1.0/SecondHand.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/leminlimez/SecondHand/releases/download/1.0/SecondHand.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "15.4.1"
@@ -107,17 +107,17 @@
           "developerName": "i_82",
           "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
           "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollSpeed.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollSpeed.png",
           "tintColor": "#20a39b",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollSpeed.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollSpeed.png"
           ],
           "versions": [
               {
                 "version": "1.12.1",
                 "date": "2024-06-17",
                 "localizedDescription": "##TrollSpeed JB - DLC##\nExtra, optional preference bundle in Settings.It will display only if you've installed PreferenceLoader.",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.12.1/TrollSpeed+AppIntents16_1.12.1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.12.1/TrollSpeed+AppIntents16_1.12.1.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -126,7 +126,7 @@
                 "version": "1.12.0",
                 "date": "2024-06-16",
                 "localizedDescription": "This is the final version of TrollSpeed & TrollSpeed JB.\n##Bug Fixes##\nReplace _MSSafeMode=1 with DISABLE_TWEAKS=1 to avoid process spawn issues (Special thanks to @opa334).",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.12.0/TrollSpeed+AppIntents16_1.12.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.12.0/TrollSpeed+AppIntents16_1.12.0.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -135,7 +135,7 @@
                 "version": "1.11.11",
                 "date": "2024-03-16",
                 "localizedDescription": "这是 TrollSpeed 的最终版本。\n修复应用程序交互中的Bug。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.11/TrollSpeed+AppIntents16_1.11.11.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.11/TrollSpeed+AppIntents16_1.11.11.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -144,7 +144,7 @@
                 "version": "1.11.9",
                 "date": "2024-03-17",
                 "localizedDescription": "最终，修复了越狱设备上图标显示异常的问题。(感谢 @opa334)",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.9/TrollSpeed+AppIntents16_1.11.9.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.9/TrollSpeed+AppIntents16_1.11.9.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -153,7 +153,7 @@
                 "version": "1.11.6",
                 "date": "2024-03-07",
                 "localizedDescription": "1.在越狱设备上，图标现在已经可以正常显示了；\n2.允许触感反馈在iOS16+上进行后台运行；\n3.感谢@dlevi309。防止在调整HUD窗口大小时，意外进入通知/控制中心（仅在应用程序中）。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.6/TrollSpeed+AppIntents16_1.11.6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.6/TrollSpeed+AppIntents16_1.11.6.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -162,7 +162,7 @@
                 "version": "1.11.3",
                 "date": "2024-03-07",
                 "localizedDescription": "允许振动引擎在 iOS 16+ 上在后台运行。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.3/TrollSpeed+AppIntents16_1.11.3.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.3/TrollSpeed+AppIntents16_1.11.3.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -171,7 +171,7 @@
                 "version": "1.11.2",
                 "date": "2024-01-31",
                 "localizedDescription": "外观：\n自定义网速字体大小。\n兼容性：\n快捷指令仅在iOS16及以上开启或关闭。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.2/TrollSpeed+AppIntents16_1.11.2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.2/TrollSpeed+AppIntents16_1.11.2.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -180,7 +180,7 @@
                 "version": "1.11.0",
                 "date": "2024-01-28",
                 "localizedDescription": "新增功能：对iOS16及以上版本增加快捷指令的支持。\n如果想要使用这个功能，请安装TrollSpeed+AppIntents16_*.tipa。\n如果不想使用该功能或系统版本iOS15及以下，请安装TrollSpeed_*.tipa。\n特别感谢：@udevsharold的TrollCuts。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.0/TrollSpeed+AppIntents16_1.11.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.0/TrollSpeed+AppIntents16_1.11.0.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -194,17 +194,17 @@
           "developerName": "i_82",
           "subtitle": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
           "localizedDescription": "在状态栏下方显示上传和下载速度，支持TrollStore全版本。\n注意：从1.11.0版本开始，新增iOS16及以上快捷指令的支持，请按照系统下载对应版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollSpeed.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollSpeed.png",
           "tintColor": "#20a39b",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollSpeed.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollSpeed.png"
           ],
           "versions": [
               {
                 "version": "1.12.1",
                 "date": "2024-06-17",
                 "localizedDescription": "##TrollSpeed JB - DLC##\nExtra, optional preference bundle in Settings.It will display only if you've installed PreferenceLoader.",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.12.1/TrollSpeed_v1.12.1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.12.1/TrollSpeed_v1.12.1.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -213,7 +213,7 @@
                 "version": "1.12.0",
                 "date": "2024-06-16",
                 "localizedDescription": "This is the final version of TrollSpeed & TrollSpeed JB.\n##Bug Fixes##\nReplace _MSSafeMode=1 with DISABLE_TWEAKS=1 to avoid process spawn issues (Special thanks to @opa334).",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.12.0/TrollSpeed_v1.12.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.12.0/TrollSpeed_v1.12.0.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -222,7 +222,7 @@
                 "version": "1.11.11",
                 "date": "2024-03-17",
                 "localizedDescription": "这是 TrollSpeed 的最终版本。\n修复应用程序交互中的Bug。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.11/TrollSpeed_v1.11.11.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.11/TrollSpeed_v1.11.11.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -231,7 +231,7 @@
                 "version": "1.11.9",
                 "date": "2024-03-17",
                 "localizedDescription": "最终，修复了越狱设备上图标显示异常的问题。(感谢 @opa334)",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.9/TrollSpeed_v1.11.9.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.9/TrollSpeed_v1.11.9.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -240,7 +240,7 @@
                 "version": "1.11.6",
                 "date": "2024-03-07",
                 "localizedDescription": "1.在越狱设备上，图标现在已经可以正常显示了；\n2.允许触感反馈在iOS16+上进行后台运行；\n3.感谢@dlevi309。防止在调整HUD窗口大小时，意外进入通知/控制中心（仅在应用程序中）。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.6/TrollSpeed_v1.11.6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.6/TrollSpeed_v1.11.6.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -249,7 +249,7 @@
                 "version": "1.11.3",
                 "date": "2024-03-07",
                 "localizedDescription": "允许振动引擎在 iOS 16+ 上在后台运行。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.3/TrollSpeed_v1.11.3.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.3/TrollSpeed_v1.11.3.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -258,7 +258,7 @@
                 "version": "1.11.2",
                 "date": "2024-01-31",
                 "localizedDescription": "外观：\n自定义网速字体大小。\n兼容性：\n快捷指令仅在iOS16及以上开启或关闭。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.2/TrollSpeed_v1.11.2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.2/TrollSpeed_v1.11.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -267,7 +267,7 @@
                 "version": "1.11.0",
                 "date": "2024-01-28",
                 "localizedDescription": "新增功能：对iOS16及以上版本增加快捷指令的支持。\n如果想要使用这个功能，请安装TrollSpeed+AppIntents16_*.tipa。\n如果不想使用该功能或系统版本iOS15及以下，请安装TrollSpeed_*.tipa。\n特别感谢：@udevsharold的TrollCuts。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.11.0/TrollSpeed_v1.11.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.11.0/TrollSpeed_v1.11.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -276,7 +276,7 @@
                 "version": "1.10.2",
                 "date": "2024-01-26",
                 "localizedDescription": "细节优化",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.10.2/TrollSpeed_v1.10.2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.10.2/TrollSpeed_v1.10.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -285,7 +285,7 @@
                 "version": "1.10.1",
                 "date": "2024-01-25",
                 "localizedDescription": "外观优化：\n1.启用半粗体文本；\n2.禁用反色淡出动画效果。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.10.1/TrollSpeed_v1.10.1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.10.1/TrollSpeed_v1.10.1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -294,7 +294,7 @@
                 "version": "1.10.0",
                 "date": "2024-01-25",
                 "localizedDescription": "新增功能：支持实时反色。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.10.0/TrollSpeed_v1.10.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.10.0/TrollSpeed_v1.10.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -303,7 +303,7 @@
                 "version": "1.9.9",
                 "date": "2024-01-24",
                 "localizedDescription": "1.应用程序：支持所有界面方向或样式；\n2.Bug修复：修复了缩放模式下错位的问题；\n3.翻译：新增西班牙语翻译，感谢@Deci8ElioS。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.9/TrollSpeed_v1.9.9.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.9.9/TrollSpeed_v1.9.9.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -312,7 +312,7 @@
                 "version": "1.9.8",
                 "date": "2024-01-23",
                 "localizedDescription": "应用程序：支持所有界面方向或样式。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.8/TrollSpeed_v1.9.8.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.9.8/TrollSpeed_v1.9.8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -321,7 +321,7 @@
                 "version": "1.9.6",
                 "date": "2024-01-19",
                 "localizedDescription": "新增功能：添加选项，可以选择在屏幕截图或屏幕录制时隐藏。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.6/TrollSpeed_v1.9.6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.9.6/TrollSpeed_v1.9.6.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -330,7 +330,7 @@
                 "version": "1.9.5",
                 "date": "2023-12-23",
                 "localizedDescription": "Bug修复：网速在重新启用之前将一直存在。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.5/TrollSpeed_v1.9.5.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.9.5/TrollSpeed_v1.9.5.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -339,7 +339,7 @@
                 "version": "1.9.3",
                 "date": "2023-12-21",
                 "localizedDescription": "Bug修复：\n1.完全修复内存使用率高时网速消失的问题；\n2.修复触摸穿透异常的问题。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.3/TrollSpeed_v1.9.3.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.9.3/TrollSpeed_v1.9.3.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -348,7 +348,7 @@
                 "version": "1.9.2",
                 "date": "2023-12-20",
                 "localizedDescription": "Bug修复：\n1.在iOS 17及以上版本上恢复root权限以避免进程被杀死；\n2.在应用程序变为活动状态时重新加载主按钮状态；\n3.可能修复iOS15.1之前触摸穿透异常的问题。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.2/TrollSpeed_v1.9.2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.9.2/TrollSpeed_v1.9.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -357,7 +357,7 @@
                 "version": "1.9.1",
                 "date": "2023-12-16",
                 "localizedDescription": "实验性功能：通过点击和拖动调整网速的垂直位置。\n不适用于居中HUD、并非所有版本的iOS都支持、支持在横屏模式下拖动。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.1/TrollSpeed_v1.9.1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.9.1/TrollSpeed_v1.9.1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -366,7 +366,7 @@
                 "version": "1.9.0",
                 "date": "2023-12-16",
                 "localizedDescription": "实验性功能：通过点击和拖动调整网速的垂直位置。\n不适用于居中HUD、并非所有版本的iOS都支持、支持在横屏模式下拖动。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.0/TrollSpeed_v1.9.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.9.0/TrollSpeed_v1.9.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -375,7 +375,7 @@
                 "version": "1.8.9",
                 "date": "2023-12-16",
                 "localizedDescription": "实验性功能：通过轻敲和长按调整网速的垂直位置。\n不适用于居中的HUD。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.9/TrollSpeed_v1.8.9.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.8.9/TrollSpeed_v1.8.9.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -384,7 +384,7 @@
                 "version": "1.8.8",
                 "date": "2023-12-16",
                 "localizedDescription": "通过轻敲和长按调整网速的垂直位置。\n不适用于居中的HUD。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.8/TrollSpeed_v1.8.8.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.8.8/TrollSpeed_v1.8.8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -393,7 +393,7 @@
                 "version": "1.8.7",
                 "date": "2023-12-15",
                 "localizedDescription": "1.将UILaunchStoryboardName条目添加到Info.plist；\n2.修复在iOS17上触摸异常的问题。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.7/TrollSpeed_v1.8.7.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.8.7/TrollSpeed_v1.8.7.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -402,7 +402,7 @@
                 "version": "1.8.6",
                 "date": "2023-12-11",
                 "localizedDescription": "现在，您通过一下方式启用或禁用网速：\n1.应用程序触感触控菜单（长按应用程序图标）；\n2.URL schemes: trollspeed://toggle、trollspeed://on或trollspeed://off\n重要提示：从授权中删除com.apple.private.personona-mgmt，这意味着TrollSpeed将不再需要root权限。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.6/TrollSpeed_1.8.6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.8.6/TrollSpeed_1.8.6.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -411,7 +411,7 @@
                 "version": "1.8.5",
                 "date": "2023-12-05",
                 "localizedDescription": "未提供说明。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.5/TrollSpeed_1.8.5.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.8.5/TrollSpeed_1.8.5.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -420,7 +420,7 @@
                 "version": "1.8.2",
                 "date": "2023-07-28",
                 "localizedDescription": "未提供说明。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -429,7 +429,7 @@
                 "version": "1.1",
                 "date": "2023-01-19",
                 "localizedDescription": "未提供说明。",
-                "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.1/TrollSpeedGreen_1.1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollSpeed/releases/download/v1.1/TrollSpeedGreen_1.1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -443,17 +443,17 @@
           "developerName": "TIGI Software",
           "subtitle": "应用程序数据管理工具，支持iOS15.0-16.6.1",
           "localizedDescription": "应用程序数据管理工具，支持iOS15.0-16.6.1",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AppsManager.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AppsManager.png",
           "tintColor": "#e24d08m",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AppsManager.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AppsManager.png"
           ],
           "versions": [
               {
                 "version": "1.8",
                 "date": "2023-11-28",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsManager_1.8.4.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppsManager_1.8.4.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -467,17 +467,17 @@
           "developerName": "TIGI Software",
           "subtitle": "文件管理器，支持iOS15.0-16.6.1",
           "localizedDescription": "文件管理器，支持iOS15.0-16.6.1",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Filza.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Filza.png",
           "tintColor": "#0cc0ed",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Filza.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Filza.png"
           ],
           "versions": [
               {
                 "version": "4.0-NoUrlScheme",
                 "date": "2022-11-21",
                 "localizedDescription": "去除 Url Scheme，屏蔽数字人民币检测越狱。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/Filza_4.0.0_NoUrlScheme.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240128/Filza_4.0.0_NoUrlScheme.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -486,7 +486,7 @@
                 "version": "4.0",
                 "date": "2022-11-21",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Filza_4.0.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/Filza_4.0.0.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -500,17 +500,17 @@
           "developerName": "bswbw",
           "subtitle": "应用程序脱壳工具，支持TrollStore全版本。",
           "localizedDescription": "应用程序脱壳工具，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AppsDump2.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AppsDump2.png",
           "tintColor": "#27cda6",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AppsDump2.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AppsDump2.png"
           ],
           "versions": [
               {
                 "version": "2.0.7",
                 "date": "2024-01-21",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/AppsDump2_v2.0.7.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240128/AppsDump2_v2.0.7.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -524,10 +524,10 @@
           "developerName": "xybp888",
           "subtitle": "查看健康状态、循环次数、容量、温度、电压、功率等信息，支持TrollStore全版本。",
           "localizedDescription": "查看健康状态、循环次数、容量、温度、电压、功率等信息，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/BatteryInfo.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/BatteryInfo.png",
           "tintColor": "#15c331",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/BatteryInfo.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/BatteryInfo.png"
           ],
           "versions": [
               {
@@ -548,17 +548,17 @@
           "developerName": "CokePokes",
           "subtitle": "应用程序降级工具，支持TrollStore全版本。",
           "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AppStore++.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AppStore++.png",
           "tintColor": "#53afee",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AppStore++.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AppStore++.png"
           ],
           "versions": [
               {
                 "version": "1.0.3",
                 "date": "2022-09-22",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppStore++_1.0.3.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/AppStore++_1.0.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -572,17 +572,17 @@
           "developerName": "bswbw",
           "subtitle": "越狱插件备份工具，支持已越狱设备。",
           "localizedDescription": "越狱插件备份工具，支持已越狱设备。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/DEBbackup.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/DEBbackup.png",
           "tintColor": "#79decc",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/DEBbackup.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/DEBbackup.png"
           ],
           "versions": [
               {
                 "version": "1.0",
                 "date": "2023-05-06",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DEBbackup_1.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/DEBbackup_1.0.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -596,17 +596,17 @@
           "developerName": "Netskao",
           "subtitle": "应用程序降级工具，支持TrollStore全版本。",
           "localizedDescription": "应用程序降级工具，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/DowngradeApp.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/DowngradeApp.png",
           "tintColor": "#b1dac9",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/DowngradeApp.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/DowngradeApp.png"
           ],
           "versions": [
               {
                 "version": "1.1-9",
                 "date": "2024-07-09",
                 "localizedDescription": "1.优化图标显示逻辑；\n2.支持显示历史版本 ID。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240710/DowngradeApp_With_TrollStore_1.1-9.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240710/DowngradeApp_With_TrollStore_1.1-9.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -615,7 +615,7 @@
                 "version": "1.1-8",
                 "date": "2023-11-30",
                 "localizedDescription": "1.Support for TrollStore2\n2.Added https://appstore.bilin.eu.org DataSource.",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/DowngradeApp_1.1-8.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/DowngradeApp_1.1-8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -629,17 +629,17 @@
           "developerName": "Netskao",
           "subtitle": "铃声管理工具，支持TrollStore全版本。",
           "localizedDescription": "铃声管理工具，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/RingTonesManager.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/RingTonesManager.png",
           "tintColor": "#846dcc",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/RingTonesManager.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/RingTonesManager.png"
           ],
           "versions": [
               {
                 "version": "1.1-4",
                 "date": "2022-10-14",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/RingTonesManager_1.1-4.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/RingTonesManager_1.1-4.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -653,10 +653,10 @@
           "developerName": "Zxlee",
           "subtitle": "##功能##\n1.此工具用来快捷下载/储存第三方来源的IPA；\n2.支持蒲公英、fir等下载页面拦截IPA地址、IPA下载；\n3.支持自动解析安装UDID描述文件并继续提取IPA信息；\n4.支持网址&二维码扫描方式录入网址；\n5.支持下载历史记录列表，可以本地储存任意数量的IPA，无需担心下载页面失效导致IPA丢失；\n6.支持ipa本地下载，分享给朋友或隔空投送发送至电脑；\n7.不支持App Store的IPA下载，也不支持提取本机已安装的IPA。\n##通知##\n因网站方要求，由v2.1.1起，IPA提取器已禁止提取蒲公英和fir的IPA。\n##使用须知##\n“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序，仅限用于学习交流，不得将“IPA提取器”或其衍生版本用于任何违法违规的用途，不得用于提取任何违法违规的ipa！由于违规使用导致的任何后果开发者不承担任何责任！",
           "localizedDescription": "##功能##\n1.此工具用来快捷下载/储存第三方来源的IPA；\n2.支持蒲公英、fir等下载页面拦截IPA地址、IPA下载；\n3.支持自动解析安装UDID描述文件并继续提取IPA信息；\n4.支持网址&二维码扫描方式录入网址；\n5.支持下载历史记录列表，可以本地储存任意数量的IPA，无需担心下载页面失效导致IPA丢失；\n6.支持ipa本地下载，分享给朋友或隔空投送发送至电脑；\n7.不支持App Store的IPA下载，也不支持提取本机已安装的IPA。\n##通知##\n因网站方要求，由v2.1.1起，IPA提取器已禁止提取蒲公英和fir的IPA。\n##使用须知##\n“IPA提取器”是一个用于提取第三方网页中的ipa并进行测试的应用程序，仅限用于学习交流，不得将“IPA提取器”或其衍生版本用于任何违法违规的用途，不得用于提取任何违法违规的ipa！由于违规使用导致的任何后果开发者不承担任何责任！",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/IpaDownloadTool.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/IpaDownloadTool.png",
           "tintColor": "#db0402",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/IpaDownloadTool.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/IpaDownloadTool.png"
           ],
           "versions": [
               {
@@ -704,17 +704,17 @@
           "developerName": "straight-tamago",
           "subtitle": "注销工具，支持iOS14.0-16.1.2",
           "localizedDescription": "注销工具，支持iOS14.0-16.1.2",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/RespringCC.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/RespringCC.png",
           "tintColor": "#c8c8c8",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/RespringCC.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/RespringCC.png"
           ],
           "versions": [
               {
                 "version": "1.4",
                 "date": "2023-03-08",
                 "localizedDescription": "1.可以通过 URL schemes 启动应用（ResplingCC://）；\n2.Bug修复。",
-                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.4/RespringCC-1.4.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/straight-tamago/RespringCC/releases/download/1.4/RespringCC-1.4.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -723,7 +723,7 @@
                 "version": "1.3",
                 "date": "2023-03-08",
                 "localizedDescription": "Bug修复。",
-                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.3/RespringCC-1.3.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/straight-tamago/RespringCC/releases/download/1.3/RespringCC-1.3.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -732,7 +732,7 @@
                 "version": "1.2",
                 "date": "2023-03-08",
                 "localizedDescription": "前端后端优化。",
-                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.2/RespringCC-1.2.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/straight-tamago/RespringCC/releases/download/1.2/RespringCC-1.2.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -741,7 +741,7 @@
                 "version": "1.1",
                 "date": "2023-02-07",
                 "localizedDescription": "支持iOS14.0-15.7.1以及16.0-16.1.2",
-                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.1/RespringCC-1.1.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/straight-tamago/RespringCC/releases/download/1.1/RespringCC-1.1.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -750,7 +750,7 @@
                 "version": "1.0",
                 "date": "2023-02-04",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/straight-tamago/RespringCC/releases/download/1.0/RespringCC-1.0.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/straight-tamago/RespringCC/releases/download/1.0/RespringCC-1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.1.2"
@@ -764,17 +764,17 @@
           "developerName": "hyperixa",
           "subtitle": "设备固件查询工具，支持TrollStore全版本。",
           "localizedDescription": "设备固件查询工具，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/IPSW.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/IPSW.png",
           "tintColor": "#fcc231",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/IPSW.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/IPSW.png"
           ],
           "versions": [
               {
                 "version": "1.0",
                 "date": "2022-07-28",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/IPSW_1.0.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/IPSW_1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -788,17 +788,17 @@
           "developerName": "b0kch01 & Polarizz",
           "subtitle": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
           "localizedDescription": "可以通过添加越狱源，了解插件更新的动态，对越狱插件进行下载，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/PostBox.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/PostBox.png",
           "tintColor": "#ffffff",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/PostBox.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/PostBox.png"
           ],
           "versions": [
               {
                 "version": "0.8.1",
                 "date": "2022-08-28",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/PostBox_0.8.1.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/PostBox_0.8.1.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -812,17 +812,17 @@
           "developerName": "LeminLimez",
           "subtitle": "状态栏小组件管理工具，支持TrollStore全版本。",
           "localizedDescription": "状态栏小组件管理工具，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Helium.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Helium.png",
           "tintColor": "#61c6fa",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Helium.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Helium.png"
           ],
           "versions": [
               {
                 "version": "3.2.5",
                 "date": "2024-02-13",
                 "localizedDescription": "1.横向模式现在可以正常运行；\n2.大幅改进自适应颜色功能；\n3，新增选择文本字体；\n4.新增斜体文本选项；\n5.可控制每个小工具的更新间隔；\n6.新增天气小工具（必须设置自己的 API 密钥）；\n7.启用和禁用小组件；\n8.HUD 现在无需重启即可更新部件集；\n9.可在部件周围添加调试边框；\n10.针对中文用户的日期区域修正；\n11.中文翻译；\n12.大量其他改进/修复。\n再次感谢 AsakuraFuuko 带来的重大更新。\n欢迎他们加入开发团队，希望他们能继续更新应用程序！\n敬请期待这位冉冉升起的开发者。",
-                "downloadURL": "https://github.com/leminlimez/Helium/releases/download/v3.2.5/Helium.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/leminlimez/Helium/releases/download/v3.2.5/Helium.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -836,17 +836,17 @@
           "developerName": "RBT Digital LLC",
           "subtitle": "让你随时掌握iPhone电池的健康状态，支持TrollStore全版本。",
           "localizedDescription": "让你随时掌握iPhone电池的健康状态，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/BatteryLife.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/BatteryLife.png",
           "tintColor": "#40f055",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/BatteryLife.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/BatteryLife.png"
           ],
           "versions": [
               {
                 "version": "3.2.1",
                 "date": "2021-01-19",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/BatteryLife_3.2.1.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/BatteryLife_3.2.1.ipa",
                 "size": 631000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -860,17 +860,17 @@
           "developerName": "haxi0",
           "subtitle": "注销工具，支持TrollStore全版本。",
           "localizedDescription": "注销工具，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/InstaSpring.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/InstaSpring.png",
           "tintColor": "#bfbfbf",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/InstaSpring.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/InstaSpring.png"
           ],
           "versions": [
               {
                 "version": "1.0",
                 "date": "2021-01-19",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -884,17 +884,17 @@
           "developerName": "Serena",
           "subtitle": "文件管理器，支持TrollStore全版本。",
           "localizedDescription": "文件管理器，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Santander.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Santander.png",
           "tintColor": "#ff9696",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Santander.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Santander.png"
           ],
           "versions": [
               {
                 "version": "1.0",
                 "date": "2022-10-10",
                 "localizedDescription": "最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/Apps/Santander_1.0.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/Apps/Santander_1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -908,18 +908,18 @@
           "developerName": "udevsharold",
           "subtitle": "快捷指令功能扩展，支持 iOS16 及以上。\n可用扩展：1.设备锁屏、2.设备重启、3.设备注销、4.重启用户空间、5.一键切换巨魔应用用户/系统权限、6.iCloud 备份、7.自动锁屏时间设置、8.自动亮度开关",
           "localizedDescription": "快捷指令功能扩展，支持 iOS16 及以上。\n可用扩展：1.设备锁屏、2.设备重启、3.设备注销、4.重启用户空间、5.一键切换巨魔应用用户/系统权限、6.iCloud 备份、7.自动锁屏时间设置、8.自动亮度开关",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollCuts.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollCuts.png",
           "tintColor": "#eaac71",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollCuts_01.png",
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollCuts_02.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollCuts_01.png",
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollCuts_02.png"
           ],
           "versions": [
               {
                 "version": "1.1",
                 "date": "2024-01-20",
                 "localizedDescription": "新增快捷指令功能扩展：\n1.集成locsim；\n2.设置或获取呼叫状态；\n3.启用/禁用定位服务.",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240306/TrollCuts_v1.1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240306/TrollCuts_v1.1.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -928,7 +928,7 @@
                 "version": "1.0",
                 "date": "2024-01-20",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/udevsharold/TrollCuts/releases/download/1.0/TrollCuts_v1.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/udevsharold/TrollCuts/releases/download/1.0/TrollCuts_v1.0.tipa",
                 "size": 331000,
                 "minOSVersion": "16.0",
                 "maxOSVersion": "16.6.1"
@@ -942,17 +942,17 @@
           "developerName": "PoomSmart",
           "subtitle": "手电筒LED控制软件，支持TrollStore全版本。",
           "localizedDescription": "手电筒LED控制软件，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollLEDs.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollLEDs.png",
           "tintColor": "#e7f0f8",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollLEDs.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollLEDs.png"
           ],
           "versions": [
               {
                 "version": "1.8.0",
                 "date": "2024-02-05",
                 "localizedDescription": "1.（iOS 16+）可以手动添加应用程序快捷方式，允许您单独配置每个LED（仅适用于四个LED设备）;\n2.（iOS 16+）添加了全部关闭的应用程序快捷方式，可关闭所有LED；\n3.全部开启的快捷方式将打开双LED设备上的单个白色LED。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.8.0/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.8.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -961,7 +961,7 @@
                 "version": "1.7.0",
                 "date": "2024-02-04",
                 "localizedDescription": "增加对快捷指令的支持。（iOS16+）",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.7.0/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.7.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -970,7 +970,7 @@
                 "version": "1.6.1",
                 "date": "2024-01-25",
                 "localizedDescription": "应用程序图标调整。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.6.1/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.6.1/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -979,7 +979,7 @@
                 "version": "1.6.0",
                 "date": "2024-01-24",
                 "localizedDescription": "为“Programmatic Quad LED设备”（带有H10相机或更新版本的设备）添加了物理LED计数分段控制，您可以明确地通知TrollLEDs您的设备有多少个物理手电筒LED。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.6.0/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.6.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -988,7 +988,7 @@
                 "version": "1.5.0",
                 "date": "2024-01-23",
                 "localizedDescription": "TrollLEDs将在不活动5分钟后自行终止，这是为了解决应用程序在后台运行时可能出现的电池耗尽问题，而不会从应用程序后台杀死进程。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.5.0/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.5.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -997,7 +997,7 @@
                 "version": "1.4.0",
                 "date": "2024-01-23",
                 "localizedDescription": "1.添加了应用程序快捷菜单：琥珀色打开、白色打开和全部打开；\n2.重新制作应用程序中的部分界面。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.4.0/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.4.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1006,7 +1006,7 @@
                 "version": "1.3.1",
                 "date": "2024-01-21",
                 "localizedDescription": "未提供说明。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.3.1/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.3.1/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1015,7 +1015,7 @@
                 "version": "1.3.0",
                 "date": "2024-01-21",
                 "localizedDescription": "现在可以点击滑块值标签，将滑块值更改为0或最大值。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.3.0/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.3.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1024,7 +1024,7 @@
                 "version": "1.2.1",
                 "date": "2024-01-21",
                 "localizedDescription": "修复了iOS14及更低版本上应用程序图标消失的问题。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.2.1/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.2.1/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1033,7 +1033,7 @@
                 "version": "1.2.0",
                 "date": "2024-01-21",
                 "localizedDescription": "添加了一个锁定开关，可以在应用程序中控制或取消手电筒LED。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.2.0/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.2.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1042,7 +1042,7 @@
                 "version": "1.1.2",
                 "date": "2024-01-20",
                 "localizedDescription": "在TrollStore版本中，删除已损坏的应用程序图标。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.1.2/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.1.2/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1051,7 +1051,7 @@
                 "version": "1.1.1",
                 "date": "2024-01-20",
                 "localizedDescription": "减小滑块标签的字体大小，以防止彼此重叠。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.1.1/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.1.1/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1060,7 +1060,7 @@
                 "version": "1.1.0",
                 "date": "2024-01-20",
                 "localizedDescription": "1.新增对iOS12的支持，可能也适用于iOS11和13，如果您使用TrollStore版本，则无所谓；\n2.删除了未使用的com.apple.sprivate.security.container-manager权限。",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.1.0/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.1.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1069,7 +1069,7 @@
                 "version": "1.0.0",
                 "date": "2024-01-20",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.0.0/TrollLEDs.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/PoomSmart/TrollLEDs/releases/download/1.0.0/TrollLEDs.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1083,17 +1083,17 @@
           "developerName": "Dcsyhi",
           "subtitle": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
           "localizedDescription": "更改您的 CarPlay 壁纸，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AirWall.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AirWall.png",
           "tintColor": "#d76f31",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AirWall.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AirWall.png"
           ],
           "versions": [
               {
                 "version": "1.5",
                 "date": "2023-12-02",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Dcsyhi1998/AirWall/releases/download/v1.5/AirWall.v1.5.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Dcsyhi1998/AirWall/releases/download/v1.5/AirWall.v1.5.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1102,7 +1102,7 @@
                 "version": "1.0",
                 "date": "2023-11-10",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Dcsyhi1998/AirWall/releases/download/v1.0/AirWall.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Dcsyhi1998/AirWall/releases/download/v1.0/AirWall.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1116,17 +1116,17 @@
           "developerName": "Dcsyhi",
           "subtitle": "在 CarPlay 上播放视频，支持TrollStore全版本。",
           "localizedDescription": "在 CarPlay 上播放视频，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/CarMovie.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/CarMovie.png",
           "tintColor": "#efeff2",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/CarMovie.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/CarMovie.png"
           ],
           "versions": [
               {
                 "version": "1.2",
                 "date": "2023-12-26",
                 "localizedDescription": "1.视频现在可以按文件夹进行分类管理；\n2.改进了CarPlay视频播放屏幕的交互界面；\n3.添加新视频时，新增输入视频元信息的界面；\n4.在应用程序启动时，进行版本更新检测；\n5.支持Url链接的视频的播放。（m3u8、m3u、mp4、mp3等）",
-                "downloadURL": "https://github.com/Dcsyhi1998/CarMovie/releases/download/v1.2/CarMovie.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Dcsyhi1998/CarMovie/releases/download/v1.2/CarMovie.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1135,7 +1135,7 @@
                 "version": "1.1",
                 "date": "2023-12-17",
                 "localizedDescription": "修复了左驾驶车辆无法正确显示图像的问题。",
-                "downloadURL": "https://github.com/Dcsyhi1998/CarMovie/releases/download/v1.1/CarMovie.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Dcsyhi1998/CarMovie/releases/download/v1.1/CarMovie.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1144,7 +1144,7 @@
                 "version": "1.0",
                 "date": "2023-12-16",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Dcsyhi1998/CarMovie/releases/download/v1.0/CarMovie.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Dcsyhi1998/CarMovie/releases/download/v1.0/CarMovie.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1158,17 +1158,17 @@
           "developerName": "Skittyblock",
           "subtitle": "设置浅色及深色外观模式下壁纸，支持TrollStore全版本。",
           "localizedDescription": "设置浅色及深色外观模式下壁纸，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/WPSetter.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/WPSetter.png",
           "tintColor": "#6a70dd",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/WPSetter.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/WPSetter.png"
           ],
           "versions": [
               {
                 "version": "1.0.1",
                 "date": "2022-09-06",
                 "localizedDescription": "1.应用程序启动时，加载当前壁纸；\n2.新增对iOS14的支持。",
-                "downloadURL": "https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0.1/WallpaperSetter.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0.1/WallpaperSetter.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1177,7 +1177,7 @@
                 "version": "1.0",
                 "date": "2022-09-05",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0/WallpaperSetter.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0/WallpaperSetter.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1191,17 +1191,17 @@
           "developerName": "sourcelocation",
           "subtitle": "AirDrop 骚扰神器，支持TrollStore全版本。",
           "localizedDescription": "AirDrop 骚扰神器，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AirTroller.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AirTroller.png",
           "tintColor": "#51e06f",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AirTroller.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AirTroller.png"
           ],
           "versions": [
               {
                 "version": "1.1.1",
                 "date": "2022-11-27",
                 "localizedDescription": "修复发送过慢的问题。",
-                "downloadURL": "https://github.com/sourcelocation/AirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/sourcelocation/AirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1210,7 +1210,7 @@
                 "version": "1.1",
                 "date": "2022-11-26",
                 "localizedDescription": "1.移除2人的限制；\n2.自定义图片。",
-                "downloadURL": "https://github.com/sourcelocation/AirTroller/releases/download/1.1/AirTroller-1.1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/sourcelocation/AirTroller/releases/download/1.1/AirTroller-1.1.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1219,7 +1219,7 @@
                 "version": "1.0",
                 "date": "2022-11-26",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/sourcelocation/AirTroller/releases/download/1.0/AirTroller-1.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/sourcelocation/AirTroller/releases/download/1.0/AirTroller-1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1233,17 +1233,17 @@
           "developerName": "Serena",
           "subtitle": "应用程序管理器，支持TrollStore全版本。",
           "localizedDescription": "应用程序管理器，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AppIndex.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/AppIndex.png",
           "tintColor": "#9867dd",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AppIndex.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/AppIndex.png"
           ],
           "versions": [
               {
                 "version": "1.0",
                 "date": "2023-04-04",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/AppIndex_v1.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240128/AppIndex_v1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1257,17 +1257,17 @@
           "developerName": "powen",
           "subtitle": "IPA文件修改器，支持TrollStore全版本。",
           "localizedDescription": "IPA文件修改器，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ModMyIPA.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ModMyIPA.png",
           "tintColor": "#686a71",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ModMyIPA.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ModMyIPA.png"
           ],
           "versions": [
               {
                 "version": "1.0",
                 "date": "2022-10-26",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/powenn/ModMyIPA/releases/download/1.0.2/ModMyIPA-1.0.2.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/powenn/ModMyIPA/releases/download/1.0.2/ModMyIPA-1.0.2.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1281,17 +1281,17 @@
           "developerName": "xybp888",
           "subtitle": "电话助手巨魔版，请按照系统下载对应版本，支持TrollStore全版本。",
           "localizedDescription": "电话助手巨魔版，请按照系统下载对应版本，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/CallAssist.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/CallAssist.png",
           "tintColor": "#47e862",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/CallAssist.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/CallAssist.png"
           ],
           "versions": [
               {
                 "version": "36-iOS17",
                 "date": "2023-12-22",
                 "localizedDescription": "适用于iOS17",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS17.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS17.tipa",
                 "size": 881000,
                 "minOSVersion": "17.0",
                 "maxOSVersion": "17.9.9"
@@ -1300,7 +1300,7 @@
                 "version": "36-iOS16",
                 "date": "2023-12-22",
                 "localizedDescription": "适用于iOS16",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS16.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS16.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.7.5"
@@ -1309,7 +1309,7 @@
                 "version": "36-iOS15",
                 "date": "2023-12-22",
                 "localizedDescription": "适用于iOS15",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS15.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS15.ipa",
                 "size": 881000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "15.8.1"
@@ -1318,7 +1318,7 @@
                 "version": "36-iOS14",
                 "date": "2023-12-22",
                 "localizedDescription": "适用于iOS14",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS14.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240128/CallAssist_iOS14.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "14.8.1"
@@ -1332,17 +1332,17 @@
           "developerName": "ichitaso",
           "subtitle": "系统更新屏蔽巨魔版，支持iOS14-17。",
           "localizedDescription": "系统更新屏蔽巨魔版，支持iOS14-17。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/OTADisabler.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/OTADisabler.png",
           "tintColor": "#6f98f3",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/OTADisabler.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/OTADisabler.png"
           ],
           "versions": [
               {
                 "version": "1.1.0",
                 "date": "2022-02-01",
                 "localizedDescription": "1.修复了即使由于拼写错误而设置为“Disable”但仍显示“Enable”的问题；\n2.优化用户体验，在禁用系统更新的同时会删除“tvOS beta 17”的配置文件。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240202/OTADisabler_1.1.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240202/OTADisabler_1.1.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1351,7 +1351,7 @@
                 "version": "1.0.0",
                 "date": "2022-01-27",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240202/OTADisabler_1.0.0.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240202/OTADisabler_1.0.0.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1365,17 +1365,17 @@
           "developerName": "SamoXcZ",
           "subtitle": "Plist编辑器，实测支持iOS16，在iOS15上闪退。",
           "localizedDescription": "Plist编辑器，实测支持iOS16，在iOS15上闪退。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/PlistEditor.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/PlistEditor.png",
           "tintColor": "#fefd65",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/PlistEditor.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/PlistEditor.png"
           ],
           "versions": [
               {
                 "version": "2.0",
                 "date": "2024-02-02",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/SamoXcZ/Plist_Editor/releases/download/Plist_Editor2.0/PlistEditor_2.0.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/SamoXcZ/Plist_Editor/releases/download/Plist_Editor2.0/PlistEditor_2.0.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1389,18 +1389,18 @@
           "developerName": "ESign",
           "subtitle": "轻松签，手机端ipa签名工具。",
           "localizedDescription": "轻松签，手机端ipa签名工具。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ESign.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ESign.png",
           "tintColor": "#4899f7",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ESign_01.png",
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ESign_02.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ESign_01.png",
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ESign_02.png"
           ],
           "versions": [
               {
                 "version": "5.0.2",
                 "date": "2024-01-28",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/ESign_5.0.2.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240204/ESign_5.0.2.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1414,17 +1414,17 @@
           "developerName": "ESign",
           "subtitle": "轻松签安装器",
           "localizedDescription": "轻松签安装器",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/JetSign.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/JetSign.png",
           "tintColor": "#27548c",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/JetSign.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/JetSign.png"
           ],
           "versions": [
               {
                 "version": "2.5.4",
                 "date": "2024-01-21",
                 "localizedDescription": "官方最新版本",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240204/JetSign_v2.5.4.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240204/JetSign_v2.5.4.ipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1438,17 +1438,17 @@
           "developerName": "lich4",
           "subtitle": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\n支持有根越狱(???-arm.deb)/无根越狱(???-arm64.deb )/TrollStore(???.tipa)\n(注意: TrollStore环境下安装新版之前请先卸载旧版)\n##注意##\n1.Mac上使用的温控接口可以进行更底层的温控和风扇速度控制,但iOS上并无此功能,因此本工具几乎是iOS上防过充唯一选择,其实这种工具十年前就应该出现了,只是一直没人研究；\n2.有研究表明电量在20%-80%之间,温度在10°C-35°C之间,对电池寿命影响最小.因此App上下阈值默认设定为20/80.如果自行调整还是建议在20-80之间.\n3.如果有兴趣参与本项目或者对本项目有建议的的欢迎参提交代码\n##目前触发充电的条件##\n1.电量低于设定的最小值\n2.插电即充模式下在未插入电源情况下插入电源\n3.插电即充模式下温度低于设定的最小值(版本1.4起支持)\n##目前触发停充的条件##\n1.电量高于设定的最大值\n2.温度高于设定的最大值",
           "localizedDescription": "MacOS系统上大名鼎鼎的AlDente，本人针对iOS重新开发，适用于长时间过冲情况下保护电池健康度。\n支持有根越狱(???-arm.deb)/无根越狱(???-arm64.deb )/TrollStore(???.tipa)\n(注意: TrollStore环境下安装新版之前请先卸载旧版)\n##注意##\n1.Mac上使用的温控接口可以进行更底层的温控和风扇速度控制,但iOS上并无此功能,因此本工具几乎是iOS上防过充唯一选择,其实这种工具十年前就应该出现了,只是一直没人研究；\n2.有研究表明电量在20%-80%之间,温度在10°C-35°C之间,对电池寿命影响最小.因此App上下阈值默认设定为20/80.如果自行调整还是建议在20-80之间.\n3.如果有兴趣参与本项目或者对本项目有建议的的欢迎参提交代码\n##目前触发充电的条件##\n1.电量低于设定的最小值\n2.插电即充模式下在未插入电源情况下插入电源\n3.插电即充模式下温度低于设定的最小值(版本1.4起支持)\n##目前触发停充的条件##\n1.电量高于设定的最大值\n2.温度高于设定的最大值",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ChargeLimiter.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/ChargeLimiter.png",
           "tintColor": "#29602c",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ChargeLimiter.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/ChargeLimiter.png"
           ],
           "versions": [
               {
                 "version": "1.7",
                 "date": "2024-10-01",
                 "localizedDescription": "1.增加对SBC的支持\n2.App服务分离, 防止越狱环境下某些插件导致服务崩溃\n3.增加越南语",
-                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.7/ChargeLimiter_1.7.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/lich4/ChargeLimiter/releases/download/1.7/ChargeLimiter_1.7.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1457,7 +1457,7 @@
                 "version": "1.6.1",
                 "date": "2024-07-01",
                 "localizedDescription": "1.增加对有线充电宝的支持\n2.增加阿拉伯语\n3.支持17.0界面",
-                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.6.1/ChargeLimiter_161.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/lich4/ChargeLimiter/releases/download/1.6.1/ChargeLimiter_161.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1466,7 +1466,7 @@
                 "version": "1.6",
                 "date": "2024-04-29",
                 "localizedDescription": "1.增加温度模拟(即Powercuff)及峰值性能状态管理功能\n2.增加限流功能以兼容某些控流能力差的电池,避免充电温度过高\n3.增加5分钟图,增加时移功能,增加显示充电状态\n4.优化界面",
-                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.6/ChargeLimiter_1.6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/lich4/ChargeLimiter/releases/download/1.6/ChargeLimiter_1.6.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1475,7 +1475,7 @@
                 "version": "1.5",
                 "date": "2024-04-01",
                 "localizedDescription": "1.支持禁流模式以兼容少数不支持停充的电池\n2.对iPhone8及以上型号重新优化,支持智能停充,支持Smart模式\n3.悬浮窗自动隐藏\n4.增加电池历史数据统计\n5.增加scheme和http接口,可和快捷方式搭配使用",
-                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.5/ChargeLimiter.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/lich4/ChargeLimiter/releases/download/1.5/ChargeLimiter.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1484,7 +1484,7 @@
                 "version": "1.4.1",
                 "date": "2024-03-01",
                 "localizedDescription": "1.优化WebUI界面；\n2.IPAD悬浮窗跟随朝向；\n3.增加黑夜模式；\n4.支持设定更新频率以省电。",
-                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.4.1/ChargeLimiter.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/lich4/ChargeLimiter/releases/download/1.4.1/ChargeLimiter.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1493,7 +1493,7 @@
                 "version": "1.4",
                 "date": "2024-02-17",
                 "localizedDescription": "1.增加快速充电模式(飞行模式+降低屏幕亮度+低电量模式)；\n2.将启动服务改为启用,方便实时查看电池状态,不必真正关闭后台；\n3.增加悬浮窗便捷控制(可拖动改变位置,单击切换启用状态)；\n4.增加触发逻辑实现高于指定温度开始充电,仅限插电即充模式。",
-                "downloadURL": "https://github.com/lich4/ChargeLimiter/releases/download/1.4/ChargeLimiter.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/lich4/ChargeLimiter/releases/download/1.4/ChargeLimiter.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1502,7 +1502,7 @@
                 "version": "1.3",
                 "date": "2024-02-12",
                 "localizedDescription": "1.解决开启“优化电池充电”导致本工具无效的问题；\n2.增加无根越狱支持；\n3.由于知识产权原因本项目名称从AlDente修改为ChargeLimiter。",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240213/ChargeLimiter_v1.3.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240213/ChargeLimiter_v1.3.tipa",
                 "size": 881000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -1516,18 +1516,18 @@
           "developerName": "Serena",
           "subtitle": "Antoine是适用于iOS和iPadOS设备的系统日志查看软件，允许您实时查看系统日志，并能够按进程、消息、类型等条件过滤日志。\n如果你以前在macOS上使用过Console.app，可以将其视为iOS版的平替软件。",
           "localizedDescription": "Antoine是适用于iOS和iPadOS设备的系统日志查看软件，允许您实时查看系统日志，并能够按进程、消息、类型等条件过滤日志。\n如果你以前在macOS上使用过Console.app，可以将其视为iOS版的平替软件。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Antoine.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Antoine.png",
           "tintColor": "#497a6f",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Antoine_01.png",
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Antoine_02.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Antoine_01.png",
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Antoine_02.png"
           ],
           "versions": [
               {
                 "version": "1.3",
                 "date": "2023-08-18",
                 "localizedDescription": "用于显示大多数日志的＜private＞vars的实际值的选项（默认为打开）",
-                "downloadURL": "https://github.com/NSAntoine/Antoine/releases/download/1.3/AntoineTrollStore.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/NSAntoine/Antoine/releases/download/1.3/AntoineTrollStore.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1536,7 +1536,7 @@
                 "version": "1.2",
                 "date": "2023-05-12",
                 "localizedDescription": "1.修复了iOS13上不显示文本消息的问题；\n2.改进了运行方式以获得更好的性能；\n3.支持日志的导出和导入。（文件扩展名为.antoinelog，基于JSON）",
-                "downloadURL": "https://github.com/NSAntoine/Antoine/releases/download/1.2/AntoineTrollStore.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/NSAntoine/Antoine/releases/download/1.2/AntoineTrollStore.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1550,17 +1550,17 @@
           "developerName": "cisc0disco",
           "subtitle": "Apple Pay 卡片图案更换，支持iOS14.0-15.4.1(15.5b4)，实测支持iOS16",
           "localizedDescription": "Apple Pay 卡片图案更换，支持iOS14.0-15.4.1(15.5b4)，实测支持iOS16",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Cardio.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Cardio.png",
           "tintColor": "#6686d9",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Cardio.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Cardio.png"
           ],
           "versions": [
               {
                 "version": "1.1",
                 "date": "2022-09-30",
                 "localizedDescription": "1.增加重置按钮；\n2.基本修复现有Bug；\n3.增加对PDF背景的支持。",
-                "downloadURL": "https://github.com/cisc0disco/Cardio/releases/download/1.1/Cardio.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/cisc0disco/Cardio/releases/download/1.1/Cardio.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1569,7 +1569,7 @@
                 "version": "1.0",
                 "date": "2022-09-30",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/cisc0disco/Cardio/releases/download/1.0/Cardio.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/cisc0disco/Cardio/releases/download/1.0/Cardio.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
@@ -1583,17 +1583,17 @@
           "developerName": "opa334",
           "subtitle": "多巴胺是无根(rootless)越狱，必须使用适配了rootless的插件，不要直接安装老插件！\n##适用机型##\nA9~A11--iOS15.0~16.6.1\nA12~A14--iOS15.0~16.51\nA15~A16--15.0~16.5\nM1--15.0~16.51\nM2--15.0~16.5",
           "localizedDescription": "多巴胺是无根(rootless)越狱，必须使用适配了rootless的插件，不要直接安装老插件！\n##适用机型##\nA9~A11--iOS15.0~16.6.1\nA12~A14--iOS15.0~16.51\nA15~A16--15.0~16.5\nM1--15.0~16.51\nM2--15.0~16.5",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Dopamine.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Dopamine.png",
           "tintColor": "#0e9f89",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Dopamine.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Dopamine.png"
           ],
           "versions": [
               {
                 "version": "2.2.2",
                 "date": "2024-08-11",
                 "localizedDescription": "停止重定向所有execve调用toposixposix_spawn\n修复某些沙盒配置文件的问题\n修复了WPA2/3 Enterpise网络不工作",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.2.2/Dopamine.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.2.2/Dopamine.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1602,7 +1602,7 @@
                 "version": "2.2.1",
                 "date": "2024-07-31",
                 "localizedDescription": "将 Jetsam Multiplier 功能默认为 3x 乘数，该功能可以自动杀死内存使用超过指定限制的进程。当安装过多的插件或者调整时，在启动时可能会超过这个限制，导致进程崩溃循环，可通过乘数解决这个问题。",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.2.1/Dopamine.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.2.1/Dopamine.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1611,7 +1611,7 @@
                 "version": "2.2",
                 "date": "2024-07-28",
                 "localizedDescription": "移除 DYLD_INTERPOSE，改用其他挂钩技术\n可以在 Dopamine 应用程序中配置 jetsam 倍数\nNSTask 在所有地方默认都受到支持\n由于更好的挂钩技术，很多不必要的代码已经能够被移除\n修复 iOS 15 arm64 中 libkrw 和 iDownload 无法工作的 kcall 问题\n修复 frida-ps -U 导致设备崩溃的问题\n以多种方式改进 launchd 崩溃报告器\n代码清理",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.2/Dopamine.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.2/Dopamine.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1620,7 +1620,7 @@
                 "version": "2.1.7",
                 "date": "2024-06-13",
                 "localizedDescription": "1.移除 libkrw 插件对 libkrw0 的依赖，这应该可以在卸载 libkrw0 后修复重新越狱的问题\n2.改进详细日志记录，并将标准错误输出也记录到日志中",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.5/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.1.5/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1629,7 +1629,7 @@
                 "version": "2.1.6",
                 "date": "2024-06-13",
                 "localizedDescription": "1.修复在关闭开发者模式的情况下，iOS 16.0 - 16.3.1 arm64设备上越狱无效的问题\n2.修复 weightBufs 在某些设备/版本组合上无法正常工作的问题\n3.修复在 kcall 不可用时，libkrw 的 physrw 无法正常工作的问题\n4.改善 libkrw 的打包和错误处理\n5.如果已经安装了更新版本，则跳过安装捆绑包\n6.在未越狱时有可用更新时，如果启用了 URL 方案，直接在 TrollStore 中打开更新",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.7/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.1.7/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1638,7 +1638,7 @@
                 "version": "2.1.5",
                 "date": "2024-05-27",
                 "localizedDescription": "1.修复了EQE应用程序\n2.修复 Codesign bypass 不支持的问题",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.6/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.1.6/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1647,7 +1647,7 @@
                 "version": "2.1.4",
                 "date": "2024-05-08",
                 "localizedDescription": "1.只自动修复里面相关目录的权限/var/jb/var/mobile\n2./var/jb/var如果或是符号链接，则跳过权限修复/var/jb/var/mobile",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.4/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.1.4/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1656,7 +1656,7 @@
                 "version": "2.1.3",
                 "date": "2024-05-07",
                 "localizedDescription": "1.修复部分设备上的系统死锁导致 watchdogd 超时的问题\n2.自动递归修复 /var/jb/var/mobile 权限\n3.修复协同设计旁路不适用于具有armv6切片的二进制文件\n4.修复multicast_bytecopy在iPad Mini 6上不起作用的问题",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.3/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.1.3/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1665,7 +1665,7 @@
                 "version": "2.1.2",
                 "date": "2024-05-03",
                 "localizedDescription": "1.修复 App 切换器在某些情况下不显示越狱应用程序的预览图像\n2.沙盒：允许写入/var/jb/var/mobile系统",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.2/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.1.2/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1674,7 +1674,7 @@
                 "version": "2.1.1",
                 "date": "2024-05-01",
                 "localizedDescription": "1.修复具有armv7s切片的二进制 binaries/libraries 上的 Codesigining bypass 失败的问题\n2.修复共享文件到越狱应用程序在某些情况下不起作用的问题\n3.修复 sandbox bypass 中的字符串损坏",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.1/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.1.1/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1683,7 +1683,7 @@
                 "version": "2.1",
                 "date": "2024-05-01",
                 "localizedDescription": "1.添加对 A8(X) 设备的支持\n2.修复在 A8 设备上使用 TrollStore 安装时 Dopamine 应用程序立即崩溃的问题\n3.在arm64 iOS 15.x上添加kcall实现\n4.使用 kcall 在可用时分配页表\n5.将越狱过程的某些部分的性能提高约 1000 倍\n6.修复对一些模糊设备/版本组合的支持\n7.添加weightBufs和multicast_bytecopy作为内核利用选项\n8.保护预启动分区中的系统文件，以便用户无法删除它们并导致设备恢复循环\n9.添加“允许应用程序中的 JIT”开关\n10.修复一些越狱文件污染的问题\n11.修复越狱应用程序在系统重新加载图标缓存后消失的问题\n12.在 Dopamine 设置中重新添加“更改mobile密码”选项\n13.改进 jbctl trustcache 管理\n14.切换到 libgrabkernel2，删除了测试版上 TrollStore 安装 Dopamine 的要求\n15.修复 smith 在 iOS 15 上无法工作的问题\n16.按推荐分数对漏洞进行排序，将“（推荐）”添加到最佳漏洞中",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.1/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1692,7 +1692,7 @@
                 "version": "2.0.11",
                 "date": "2024-03-11",
                 "localizedDescription": "实际上在越狱时修复了相关的文件路径权限（以前存在此方法，但从未被调用，叹息......），这现在实际上应该自动修复诸如 NewTerm / SSH 不起作用之类的问题。",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.11/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.0.11/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1701,7 +1701,7 @@
                 "version": "2.0.10",
                 "date": "2024-03-08",
                 "localizedDescription": "1.修复禁用开发人员模式时无法使用的越狱（开发人员模式现在将以非持久方式为当前启动启用）；\n2.修复在arm64（Apple Watch、VPN...）上一段时间后出现NECP连接失败；\n3.修复arm64上的terminusd崩溃，重新启用注入它，然后nesessionmanager；\n4.越狱时自动修复/private和/private/preboot的错误权限；\n5.修复在OTA更新中消失或不再打开的应用程序图标（仅为未来的更新修复，而不是2.0.10，还需要TrollStore 2.0.13）。",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.10/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.0.10/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1710,7 +1710,7 @@
                 "version": "2.0.9",
                 "date": "2024-02-29",
                 "localizedDescription": "1.修复了一个超级糟糕的安全问题，即允许应用程序商店应用程序获得完整的系统功能（root + phys r/w），而这些功能原本只能由 root 进程访问，因此多巴胺2.0.0-2.0.8已删除，不再建议任何人使用！！！\n2.修复了一个问题，即2.0.7和2.0.8版本中与arm64相关的修复程序只有在安装了ellekit并启用了插件注入时才有效！\n3.禁用对arm64上的terminusd和nesessionmanager的注入，试图解决崩溃循环和VPN应用程序仍然不适用于某些用户的问题！\n4.立即允许通过POSIX_SPAWN_START_SUSPENDED派生的所有进程上的无效页面，这修复了几个Frida功能无法正常工作的问题！\n5.实际上修复了对早期iOS 15.0测试版的支持（2.0.8版本的更改日志撒谎）。",
-                "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.9/Dopamine.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/opa334/Dopamine/releases/download/2.0.9/Dopamine.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.6.1"
@@ -1724,17 +1724,17 @@
           "developerName": "haxi0",
           "subtitle": "利用MDC漏洞禁用OTA更新，支持iOS15.0-16.1.2",
           "localizedDescription": "利用MDC漏洞禁用OTA更新，支持iOS15.0-16.1.2",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/KillMyOTA.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/KillMyOTA.png",
           "tintColor": "#FF8B29",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/KillMyOTA.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/KillMyOTA.png"
           ],
           "versions": [
               {
                 "version": "1.1",
                 "date": "2023-01-30",
                 "localizedDescription": "修复应用程序加载时按钮文本显示异常的问题。",
-                "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.1.2"
@@ -1743,7 +1743,7 @@
                 "version": "1.0",
                 "date": "2023-01-28",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.0.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.0.ipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "16.1.2"
@@ -1757,18 +1757,18 @@
           "developerName": "i_82 & Lakr233",
           "subtitle": "支持巨魔的通话录音软件，支持iOS15.0-17.0",
           "localizedDescription": "支持巨魔的通话录音软件，支持iOS15.0-17.0",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollRecorder.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollRecorder.png",
           "tintColor": "#27355e",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollRecorder_01.png",
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollRecorder_02.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollRecorder_01.png",
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollRecorder_02.png"
           ],
           "versions": [
               {
                 "version": "2.2",
                 "date": "2024-09-26",
                 "localizedDescription": "🎉 悬浮球现已能够在解锁前显示！\n添加了韩语（朝鲜语）支持（译者：SUB2）",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v2.2-392/TRApp_2.2-392.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v2.2-392/TRApp_2.2-392.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1777,7 +1777,7 @@
                 "version": "2.1",
                 "date": "2024-09-16",
                 "localizedDescription": "新功能\n  新增如下快捷指令动作：\n    获取录音持续时间/路径/状态\n    获取通话时长/状态\n    接听/挂断来电\n    等待接通\n    结束通话\n    通话语音播报\n\n  新增「自动化」设置，你现在可以指定，在如下事件发生时，执行快捷指令：\n    通话录音开始/结束时\n    来电时/接通/挂断时\n    去电时/接通/挂断时\n\n由于技术原因，非 CallKit 通话不会触发与通话状态相关的自动化动作。\n\n  新增「锁屏小组件」，现在你无需在主屏幕添加巨魔录音机的「桌面小组件」，只需在锁屏添加任意一种「锁屏小组件」即可。\n\n改进与优化\n  购买页新增关键功能提示\n  为新功能、推荐功能和关键功能新增角标提醒\n  在录音列表右上角筛选菜单中新增了「选择」按钮\n  支持在「开发者选项」中设置 Voice-Over 语音\n  优化部分功能的详细描述\n  优化 App 内各搜索框的响应逻辑\n  优化 Markdown 列表文本的行高\n",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v2.1-390/TRApp_2.1-390.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v2.1-390/TRApp_2.1-390.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1785,8 +1785,8 @@
               {
                 "version": "1.22",
                 "date": "2024-09-02",
-                "localizedDescription": "主要更新\n修复 [#90](https://github.com/Lessica/TrollRecorder/issues/90)，合入 [#91](https://github.com/Lessica/TrollRecorder/pull/91)。\n修复 iPad 上的一些布局问题。\n修复了纯巨魔环境下「通过 iCloud 备份」无法正常进行的问题。\n由于将 rsync 替换为自研实现 TRSyncLite，安装包体积减少了约 2 M。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.22-369/TRApp_1.22-369.tipa",
+                "localizedDescription": "主要更新\n修复 [#90](https://ghp.ci/https://github.com/Lessica/TrollRecorder/issues/90)，合入 [#91](https://ghp.ci/https://github.com/Lessica/TrollRecorder/pull/91)。\n修复 iPad 上的一些布局问题。\n修复了纯巨魔环境下「通过 iCloud 备份」无法正常进行的问题。\n由于将 rsync 替换为自研实现 TRSyncLite，安装包体积减少了约 2 M。",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.22-369/TRApp_1.22-369.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1794,8 +1794,8 @@
               {
                 "version": "1.20",
                 "date": "2024-08-27",
-                "localizedDescription": "好久不见！\n「乌龙工作室」此次为巨魔录音机带来重要里程碑更新「通过 iCloud 备份」。启用此选项后，你不再需要担心手机丢失或损坏，录音将自动随 iCloud 备份，整个过程是无感的。\n此外，此次更新也加入了对 [Dopamine (RootHide)](https://github.com/roothide/Dopamine-roothide) 隐根越狱环境的支持。\n\n更新日志\n支持隐根越狱\nTrollRecorder JB (巨魔录音机越狱版) 现已支持 Dopamine (RootHide) 隐根越狱环境。\n需注意的是，TrollRecorder JB 依然不支持 Bootstrap (RootHide) 半越狱环境，请使用 TrollRecorder (巨魔录音机)。\n\n通过 iCloud 备份\n「本地存储」新增选项「通过 iCloud 备份」。\n打开此选项后，你将能够在「文件」App ，「我的 iPhone」中找到「巨魔录音机」文件夹，并看到所有录音的原始数据。这些数据将随 iTunes 或爱思或 iCloud 备份。\n与「智能云归档」的区别\n「智能云归档」能够按月，将除本月以外月份的录音文件，以自定义导出名称的形式，导出到「iCloud 云盘」。\n「通过 iCloud 备份」则充分利用了 iOS 系统的「iCloud 备份」功能，将录音安全地备份到 iCloud 储存空间。虽然你不能在 iCloud 云盘当中直接访问它们，但是当你的 iPhone 意外丢失或损坏时，你可以通过 iCloud 恢复先前的备份，或通过其他工具下载 iCloud 上的完整备份，将录音提取出来。\n由于加入了 rsync 备份支持，安装包体积增加了约 2 M。\n",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.20-357/TRApp_1.20-357.tipa",
+                "localizedDescription": "好久不见！\n「乌龙工作室」此次为巨魔录音机带来重要里程碑更新「通过 iCloud 备份」。启用此选项后，你不再需要担心手机丢失或损坏，录音将自动随 iCloud 备份，整个过程是无感的。\n此外，此次更新也加入了对 [Dopamine (RootHide)](https://ghp.ci/https://github.com/roothide/Dopamine-roothide) 隐根越狱环境的支持。\n\n更新日志\n支持隐根越狱\nTrollRecorder JB (巨魔录音机越狱版) 现已支持 Dopamine (RootHide) 隐根越狱环境。\n需注意的是，TrollRecorder JB 依然不支持 Bootstrap (RootHide) 半越狱环境，请使用 TrollRecorder (巨魔录音机)。\n\n通过 iCloud 备份\n「本地存储」新增选项「通过 iCloud 备份」。\n打开此选项后，你将能够在「文件」App ，「我的 iPhone」中找到「巨魔录音机」文件夹，并看到所有录音的原始数据。这些数据将随 iTunes 或爱思或 iCloud 备份。\n与「智能云归档」的区别\n「智能云归档」能够按月，将除本月以外月份的录音文件，以自定义导出名称的形式，导出到「iCloud 云盘」。\n「通过 iCloud 备份」则充分利用了 iOS 系统的「iCloud 备份」功能，将录音安全地备份到 iCloud 储存空间。虽然你不能在 iCloud 云盘当中直接访问它们，但是当你的 iPhone 意外丢失或损坏时，你可以通过 iCloud 恢复先前的备份，或通过其他工具下载 iCloud 上的完整备份，将录音提取出来。\n由于加入了 rsync 备份支持，安装包体积增加了约 2 M。\n",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.20-357/TRApp_1.20-357.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1804,7 +1804,7 @@
                 "version": "1.18.1",
                 "date": "2024-07-24",
                 "localizedDescription": "💬 作者有话说\n巨魔录音机一直将「无障碍」作为开发过程中的关键环节。实现了包括「可朗读按钮」、「可朗读菜单」、「自适应字体大小」和「自适应界面样式」等易用特性。\n\n本周版本为易用性更新：\n1.优化了「旁白」使用时的焦点数量\n2.优化了部分组件的「旁白」效果\n3.为 HUD 提示弹出增加「旁白」语音\n\n巨魔录音机今后也将继续优化焦点控制等无障碍特性，希望大家能够关注残障人士的 App 开发。\n独立软件开发者生存不易，也希望大家能够支持正版软件。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.18.1-354/TRApp_1.18.1-354.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.18.1-354/TRApp_1.18.1-354.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1813,7 +1813,7 @@
                 "version": "1.18.0",
                 "date": "2023-07-13",
                 "localizedDescription": "##💬 作者有话说##\n在三周前的 v1.12 中，我们优化了大批量录音（超过 3,000 条）载入的启动速度。\n在两周前，我们为超长录音（超过 10 小时）进行了稳定性与性能优化。\n本周，我们进一步优化了大批量录音（超过 3,000 条）按标题、电话号码文本进行搜索，或按 是否已收藏 进行过滤时的性能。\n\n##🔨 改进与优化##\n1.优化了大批量录音条目的搜索性能\n2.修复越狱版本「最近通话」中关联录音小图标经常不显示的问题\n3.修复在录音列表中进行首次搜索，空列表占位视图闪现的问题\n4.修复录音回放过程中偶现回放中断的问题\n\n##🌍 全球化##\n繁体中文（香港）",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.18.0-352/TRApp_1.18.0-352.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.18.0-352/TRApp_1.18.0-352.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1822,7 +1822,7 @@
                 "version": "1.16.2",
                 "date": "2023-07-11",
                 "localizedDescription": "##🌟 新功能##\n仅付费越狱版可用「与通话记录关联」\n使关联的通话录音展示在「电话」App 的「最近通话」页面，可跳转回巨魔录音机进行回放。\n\n##🌍 全球化##\n繁体中文（香港）\n繁体中文（台湾）\n西班牙语\n\n##🔨 优化与改进##\n优化购买单页的显示布局\n录音回放音频通道变更为独占模式\n将「低电量模式」与 设备温度 作为转换处理过程超时时长的计算系数\n\n##ℹ️ 温馨提示##\n「与通话记录关联」功能需要越狱，并使用越狱版 TrollRecorder JB\n依赖项：com.opa334.libsandy, mobilesubstrate\n「微信通话助理」暂不完整支持官方微信 8.0.50，敬请期待后续更新",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.16.2-344/TRApp_1.16.2-344.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.16.2-344/TRApp_1.16.2-344.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1831,7 +1831,7 @@
                 "version": "1.16.0",
                 "date": "2023-07-01",
                 "localizedDescription": "此版本改善了录音处理过程。\n如果你需要录制超长录音，或时常遇到 ⚠️ 图标，或显示「未知提供方」的录音，建议更新。\n\n##改进与优化##\n1.优化 iPad 分屏模式体验\n2.极为先进的「妙手回春」又回来了\n3.为录音及转换过程新增更多日志\n4.大幅减少处理过程中的运行内存与储存空间占用\n5.支付页面新增浅色模式配色\n\n##问题修复##\n1.录音处理失败时，不再创建预期之外的空白目录\n2.修复了当 App 意外关闭，恢复过程仍继续进行的问题\n3.修复了当录音过长（超过 4 小时）时，处理过程意外终止的问题，🌟 现在你可以稳定录制超过 10 小时的超长录音\n4.版本更新检查现已忽略预发布版本\n\n此处所说的，预发布版本，即公开测试版本（Pre-release, Public Beta）。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.16.0-338/TRApp_1.16.0-338.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.16.0-338/TRApp_1.16.0-338.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1840,7 +1840,7 @@
                 "version": "1.15.0",
                 "date": "2023-06-26",
                 "localizedDescription": "##改进与优化##\n1.「播放录音提示」更名为「播放录音警告」\n2.应用程序设定「配置不一致」检测弹窗新增按钮「重新启用建议选项」\n3.移除「转录」页面首次进入时的动画\n4.在电话或 FaceTime 通话录音详情页中，连续轻点号码可以回拨\n\n##问题修复##\n1.完善录制过程中 App 本体的使用体验：开始或结束录制时刷新录音列表、不再出现两个无效 “录音”。\n2.完善处于锁定或待转换状态录音的处理：点选将不再造成崩溃、、不再自动填充地理位置、不再显示 “收藏” 或 “分享” 按钮。\n3.修复重复删除同名录音失败的问题\n4.修复「使用回收站」选项启用时，删除同名录音失败的问题\n5.修复下一次录音开始前，可能使用上一次录音的通话信息的问题\n6.修复不同状态下同名录音的显示顺序未定义的问题\n7.修复扫描最近录音时日期范围未达预期的问题\n8.修复录音压缩失败时，录制缓存被意外清理的问题",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.15.0-331/TRApp_1.15.0-331.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.15.0-331/TRApp_1.15.0-331.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1849,7 +1849,7 @@
                 "version": "1.12.4",
                 "date": "2023-06-24",
                 "localizedDescription": "##新功能##\n越狱版新增「隐秘语音备忘录」：\n1.隐藏「语音备忘录」在锁屏界面上的显示，包括可能的灵动岛活动\n2.可能需要「妙手回春」才能完全生效\n\n##改进与优化##\n优化录音列表内容较多（数千条）时的载入速度",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.12.4-299/TRApp_1.12.4-299.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.12.4-299/TRApp_1.12.4-299.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1858,7 +1858,7 @@
                 "version": "1.12.3",
                 "date": "2023-06-22",
                 "localizedDescription": "##优化与改进##\n1.「应用程序」新增「建议应用」，单独列出常见通话 App\n2.录音列表页搜索框占位文本中，新增当前过滤器的提示文本\n3.「微信通话助理」新增设置页版本检测与兼容性提示文本\n4.「启动时检查更新」移至「高级选项」\n\n##问题修复##\n1.修复部分极端场景下，录音在缓存中但不显示可转换状态的问题\n2.修复录音过程中打开 App，用户误操作可能导致正在录制中的音频丢失的问题：⚠️ 请不要在录制过程中打开录音机 App 并操作锁定中的录音，这样容易造成音频丢失！",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.12.3-295/TRApp_1.12.3-295.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.12.3-295/TRApp_1.12.3-295.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1867,7 +1867,7 @@
                 "version": "1.12.2",
                 "date": "2023-06-19",
                 "localizedDescription": "###功能改进###\n##通知与提醒##\n当「触感反馈」关闭的情形下，「开始时振动」与「结束时振动」将不再受到设备静音开关状态的影响。\n\n##显示与外观##\n1.优化了录音列表为空时的提示界面\n2.设置页面中，用 V 形图案代替了原本的箭头\n3.「妙手回春」取消了冻屏效果，恢复使用相对保守的动画效果（减少性能开销）\n\n##内容共享##\n优化了「自定义导出名称」的占位符展示效果。\n\n##隐私与安全性##\n优化了以下步骤的使用体验：\n1.设置页面的部分选项受到 iOS 隐私权限限制而被禁用\n2.将 App 退到多任务后台\n3.前往 iOS 设置「隐私与安全性」等页面，给巨魔录音机 App 重新授予相关隐私权限\n4.将 App 从多任务后台唤醒到前台\n5.被禁用的选项将立即刷新并恢复为可用状态",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.12.2-291/TRApp_1.12.2-291.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.12.2-291/TRApp_1.12.2-291.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1876,7 +1876,7 @@
                 "version": "1.12.1",
                 "date": "2023-06-16",
                 "localizedDescription": "此版本包含巨魔录音机越狱版的一些严重问题的修复，建议所有越狱版用户更新。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.12.1/TRApp_1.12.1-290.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.12.1/TRApp_1.12.1-290.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1885,7 +1885,7 @@
                 "version": "1.12.0",
                 "date": "2023-06-14",
                 "localizedDescription": "##版本说明##\n自 v1.12.0 起，GitHub 发布版本号将不包含构建号，以方便记忆。\n\n##问题修复##\n1.修复「智能云归档」相关配置修改后未能生效的问题\n2.修复当前台录音转换时，「保留所有通道」选项未能生效的问题\n3.修复 TrollRecorder JB 越狱版本中，偶现录音进程无法正常启动的问题",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.12.0/TRApp_1.12.0-285.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.12.0/TRApp_1.12.0-285.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1894,7 +1894,7 @@
                 "version": "1.10.3",
                 "date": "2023-06-11",
                 "localizedDescription": "##新功能##\n智能云归档（iCloud Drive 支持）\n每月自动为混合和组合模式的录音创建克隆，并将其存储在 iCloud 云盘中。\n满足如下条件时，归档和上传会被触发：\n已登录 iCloud，启用 iCloud 云盘且剩余空间充足\n连接到电源，剩余电量充足，有可用的网络连接\nApp 处于多任务后台，设备屏幕已锁定且闲置一段时间\n#注意事项#\n此功能不是用于「同步」的网盘，即当前月份的录音不会被归档\n此功能不能立即释放储存空间，但 iCloud 云盘将在机身存储不足时自动删除本地副本\n此功能经过精心设计，可与「删除过期录音」功能一同使用；「删除过期录音」功能不会删除 iCloud 云盘当中的内容\n#新「妙手回春」#\n现已使用新的妙手回春方式，注销时将以动效衔接下述步骤：\n1.冻屏\n2.重启小组件、SpringBoard 和 backboardd\n3.重新启动 App\n\n##优化与改进##\n1.为购买界新增试用状态的文字提示\n\n2.优化「自定义导出名称」的使用体验\n\n##问题修复##\n修复「自定义导出名称」可能导致文件名格式不正确的问题",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.3-283/TRApp_1.10.3-283.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.10.3-283/TRApp_1.10.3-283.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1903,7 +1903,7 @@
                 "version": "1.10.2",
                 "date": "2023-06-10",
                 "localizedDescription": "##问题修复##\n1.进一步改进授权验证策略和新手引导过程\n2.修复录音详情部分字段过长显示不完整的问题（如地理位置）\n3.修复通话监控服务日志可能无法正常输出到文件的问题\n4.修复关闭后检查更新依旧生效的问题（感谢群友 Redamancy 指出）",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.2-280/TRApp_1.10.2-280.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.10.2-280/TRApp_1.10.2-280.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1912,7 +1912,7 @@
                 "version": "1.10.1",
                 "date": "2023-06-10",
                 "localizedDescription": "##新功能##\n1.原「制作归档」、「导出元数据」、「WebDAV 服务器」功能已移至「内容共享」标签页\n2.新增「自定义导出名称」功能：\n你现在可以 优雅地 自定义录音的分享、批量导出的名称\n特别提示：今后的版本中，自动归档（备份）功能也能够支持用户自定义的文件名称\n3.App 设置中新增「发行说明」入口：\n你现在可以在 App 中查看历次更新的具体内容\n\n##优化与改进##\n1.💗「关爱」为纯图标按钮添加了无障碍标签和提示信息\n2.💗 调整了授权验证失败时的提示，引导用户自助排查问题\n3.调整了 Havoc 账户登出时的验证策略\n4.微调了 App 图标，使其主体与背景居中，更为美观\n5.优化了逆地理位置的格式化文本\n\n##问题修复##\n1.修复了「导出元数据」选项开启后，录音分享到微信无法播放的问题\n2.修复了「应用程序图标」选项在卸载并重装后，实际效果被还原的问题\n3.再次打开 App 设置页，App 图标将重新配置为用户选择的风格\n\n##兼容性声明##\n自此版本开始，巨魔录音机的安装、服务启动阶段，可能会进行环境自检，并给出提示。具体限制如下：\n1.巨魔录音机不支持也永远不会支持 iOS 14。\n2.巨魔录音机（巨魔版本）需要从巨魔商店 TrollStore 安装，不支持任何自签。\n3.TrollRecorder JB，即越狱版本，不支持 RootHide 环境；此环境用户请从 TrollStore 安装和使用巨魔版本。\n4.巨魔版本和越狱版本不可共存，如果同时安装，会产生一系列冲突和奇怪的问题。请卸载其中一个。\n5.iPhone X 及更早设备因性能过时，可能无法正常编码太长的录音。对此，请使用这些设备的用户在免费试用阶段做好自测，因设备性能原因造成的使用问题，不予退款。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.1-273/TRApp_1.10.1-273.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.10.1-273/TRApp_1.10.1-273.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1921,7 +1921,7 @@
                 "version": "1.10.0",
                 "date": "2023-06-05",
                 "localizedDescription": "##新功能##\n1.「显示与外观」新增「应用程序图标」选项\n2.Pro 用户现可更换新款图标\n3.「本地存储」新增「导出元数据」选项\n4.分享、导出或归档音频文件时写入 ID3 标签\n5.🐤 自动归档功能或于下个版本推出\n\n##优化与改进##\n1.优化了大批量删除、导出时的性能及显示效果\n2.「删除过期录音」功能新增「45 天前」选项\n3.此功能选项设置后并不会立即执行删除，而是在随后数日执行\n4.「删除过期录音」选项设置后，将为列表中即将删除的录音特别标记",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.10.0-266/TRApp_1.10.0-266.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.10.0-266/TRApp_1.10.0-266.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1930,7 +1930,7 @@
                 "version": "1.9.8",
                 "date": "2023-06-03",
                 "localizedDescription": "##主要更新内容##\n你没看错，这周只更新了一个垃圾桶 🗑️。\n(PRO) 重新设计的“回收站”\n你现在可以直接在 App 中恢复最近删除的录音。\n需要提前打开「使用回收站」选项。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.8-236/TRApp_1.9.8-236.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.9.8-236/TRApp_1.9.8-236.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1939,7 +1939,7 @@
                 "version": "1.9.7",
                 "date": "2023-05-28",
                 "localizedDescription": "##问题修复##\n（中国大陆地区用户特供）\n此版本主要修复了微信录音偶现失效的问题。\n\n##相关问题汇总##\n1.授权验证失败优先排查：订单内有礼品码需要兑换，必须用 Safari 非无痕模式登录。\n2.「微信通话助理」需注意，「仅支持新版本官方微信」。即只支持 46-49 版本官方原版微信，其他各路魔改均不支持。\n3.只有当微信通话结束，触发录音结束的情形下，「微信通话助理」才能生效。手动提前结束录音时此功能无效。\n4.「微信通话助理」有时能够获取通话方向，有时不能。这是正常现象，随缘获取，勿要强求。\n5.安装新版本后桌面小组件变白，是巨魔导致的。「妙手回春」后再回桌面点一下小组件即可恢复正常。\n6.开机自启（服务保活）选项需要购买高级版，并将「巨魔录音机」小组件添加到桌面或负一屏。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.7-183/TRApp_1.9.7-183.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.9.7-183/TRApp_1.9.7-183.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1948,7 +1948,7 @@
                 "version": "1.9.6",
                 "date": "2023-05-26",
                 "localizedDescription": "##更新日志##\n1.🤡 优化 App 前后台切换的动态效果\n2.🤡 优化设置页面条目按下的动态效果\n3.🔊 优化录音回放：现已支持后台播放和媒体控制\n4.📖 新增繁体中文（台湾）支持\n5.原繁体中文现已调整为繁体中文（香港）\n6.🩹 修复关闭「录音定位」后，「应用启动时填充位置」选项仍生效的问题。\n7.📧 「通过电子邮件联系」反馈时，你的 App 偏好设置将会随附件一同发送给我们。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.6-175/TRApp_1.9.6-175.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.9.6-175/TRApp_1.9.6-175.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1957,7 +1957,7 @@
                 "version": "1.9.3",
                 "date": "2023-05-22",
                 "localizedDescription": "##问题修复##\n修复了 “妙手回春” 会导致服务无法启动的严重可用性问题。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.3-166/TRApp_1.9.3-166.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.9.3-166/TRApp_1.9.3-166.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1966,7 +1966,7 @@
                 "version": "1.9.2",
                 "date": "2023-05-21",
                 "localizedDescription": "!!请不要安装此版本!!\n\n##问题修复##\n修复了 “妙手回春” 会导致服务无法启动的严重可用性问题。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.2-164/TRApp_1.9.2-164.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.9.2-164/TRApp_1.9.2-164.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1975,7 +1975,7 @@
                 "version": "1.9.1",
                 "date": "2023-05-20",
                 "localizedDescription": "!!请不要安装此版本!!\n\n##更新日志##\n1.🔔 改进「显示开始通知」：\n提升了开始通知的成功率。\n「显示有声通知」和「显示通知角标」开关将同时作用于开始通知。\n2.🔊 播放已录制的音频时锁屏，播放将继续。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.1-163/TRApp_1.9.1-163.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.9.1-163/TRApp_1.9.1-163.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1984,7 +1984,7 @@
                 "version": "1.9.0",
                 "date": "2023-05-20",
                 "localizedDescription": "!!请不要安装此版本!!\n\n##Major Updates##\n1.Optimized “Go Home When Unlocked”.\n2.Optimized “Populate Location When App Starts”.\nNow you can see the progress of location updates in recording detail page.\n3.New Feature “Show Option Description”.\nNow you can choose whether to display the name or description of each option.\n4.New Feature “Popup Banner at Begin”.\nDisplay a notification banner when it is ready to record or recording starts.\nRemove all outdated notifications when app starts.\n5.Now you can send feedback to us via Email, with a new feedback template.\nService logs and crash logs will be included.",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.9.0-161/TRApp_1.9.0-161.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.9.0-161/TRApp_1.9.0-161.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -1993,7 +1993,7 @@
                 "version": "1.8.9",
                 "date": "2023-05-18",
                 "localizedDescription": "!!请不要安装此版本!!\n\n此版本建议先手动卸载，再重新执行安装！\n你的录音不会被删除。\n\n此版本改进了状态管理，提升了「开机自启」的成功率。可能会轻微增加耗电，如果出现耗电异常，请在设置页面点击下方的「联系我们」，发送邮件进行日志反馈。\n##更新日志##\n1.⚠️ 改进状态管理：提升「开机自启」成功率\n2.🔔 新增「显示开始通知」\n仅锁定时：在屏幕锁定时开始录音，会显示即时通知。\n始终：开始录音时，会显示即时通知。\n3.🩹 改进通知显示的样式和优先级\n4.🩹 启动 App 时消除所有通知\n5.🩹 改进「解锁后回到桌面」：输入密码解锁时不再重复模拟上划。\n6.🔨 新增「开发者模式」：可以查看运行日志（隐藏式入口）\n7.🔨 邮件反馈现自带模版，并附加最近 7 天的运行日志和最近的崩溃日志。”",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.9-159/TRApp_1.8.9-159.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.8.9-159/TRApp_1.8.9-159.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2002,7 +2002,7 @@
                 "version": "1.8.7",
                 "date": "2023-05-14",
                 "localizedDescription": "##Major Updates##\n1.Fixed the support for iOS 15.0\n2.New feature: “Go Home When Unlocked”",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.7-150/TRApp_1.8.7-150.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.8.7-150/TRApp_1.8.7-150.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2011,7 +2011,7 @@
                 "version": "1.8.6",
                 "date": "2023-05-13",
                 "localizedDescription": "##最近更新内容##\n1.💬 「播放录音提示」现已支持手动触发，长按悬浮面板左下角的暂停键即可呼出此功能菜单。\n2.⚽️ 「悬浮球+」现已支持自定义避让区域，并支持上下边缘吸附（不支持折叠）。\n3.🔔 对于未购买或未开启的用户，提示购买或开启「微信通话助理」。\n4.🩹 修复了部分场景下微信来去电方向无法获取的问题。\n5.🩹 修复了上个版本应用程序「允许自动录音」开关失效的问题。\n6.🩹 修复了上个版本自定义避让区域时，横竖屏切换导致避让区域丢失的问题。\n7.🔗 当巨魔商店「URL Scheme」未打开时，不再跳转放大镜而是跳转到 Safari 下载安装包。\n\n##已知问题##\n1.目前收到若干例用户报告，iOS 15.0 最近几个版本无法进行通话录音，请暂时使用旧版。\n2.开发者没有 iOS 15.0 的巨魔 2 设备，此问题可能需要一段时间才能修复。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.6-145/TRApp_1.8.6-145.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.8.6-145/TRApp_1.8.6-145.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2020,7 +2020,7 @@
                 "version": "1.8.5",
                 "date": "2023-05-11",
                 "localizedDescription": "##New Features##\n1.Call Recording\n“Play Recording Warning”: Now you can manually play the recording warning by long-pressing the “pause” or “resume” button on the floating panel.\n2.Hover-ball Plus\n“Custom Layout Guide”: Customize a rectangular region that helps you position the hover-ball on the screen.\n“Attachable Edges”: You can determine which edges of the screen the hover-ball can be attached to.\n3.Appearance\nAdd warning dialogs to enable “WeChat Call Assistant”.\n\n##Bug Fixes & Improvements##\n1.Increased timeout intervals in some scenarios.\n2.Fixed an issue that prevents iOS 15, iPhone 12 users from touching the hover-ball.\n3.Fixed an issue that prevents call direction detection for WeChat calls.\n4.Fixed an issue that causes “Allow Automatic Recording” toggles for FaceTime and Phone Calls failed to work properly.\n5.When “URL Scheme Enabled” toggle is OFF, open Safari to download the updated .tipa package.",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.5-144/TRApp_1.8.5-144.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.8.5-144/TRApp_1.8.5-144.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2029,7 +2029,7 @@
                 "version": "1.8.2",
                 "date": "2023-05-05",
                 "localizedDescription": "##Recent Updates##\n1.Added Bugsnag for crash reporting.\n2.New option that allows you to access the WebDAV server while the app is in background.\n3.(New Option) Fixed an issue that prevented recording calls from other devices.\n4.Fixed an issue that prevented sharing recordings with special characters in their names.",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.2-137/TRApp_1.8.2-137.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.8.2-137/TRApp_1.8.2-137.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2038,7 +2038,7 @@
                 "version": "1.8.0",
                 "date": "2023-05-01",
                 "localizedDescription": "##最近更新内容##\n1.🍉「快速录音」组合键修改为同时按下两个音量键。\n2.🍒「应用程序」选项为「微信」新增「允许访问通话记录」选项。勾选此选项，代表你同意并授权「巨魔录音机」访问「微信」保存在你设备上的 VoIP 通话历史记录缓存数据库，并用于自动填充来自「微信」的通话录音默认名称。此功能仅支持新版本官方微信，旧版本官替、多开或许能够支持，但效果不保证。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.8.0-131/TRApp_1.8.0-131.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.8.0-131/TRApp_1.8.0-131.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2047,7 +2047,7 @@
                 "version": "1.7.9",
                 "date": "2023-04-28",
                 "localizedDescription": "##新功能##\n1.「应用程序」选项为「微信」新增「允许访问通话记录」选项\n实验性功能：勾选此选项，代表你同意并授权「巨魔录音机」访问「微信」保存在你设备上的 VoIP 通话历史记录缓存数据库，并用于自动填充来自「微信」的通话录音默认名称。此功能仅支持 官方微信 8.0.46 之后的版本。\n2.新增越南语 (@2311WithLuv) 支持。\n3.修复 TrollRecorder JB 在部分场景下首次安装，授权验证失败的问题。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.9-127/TRApp_1.7.9-127.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.7.9-127/TRApp_1.7.9-127.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2055,8 +2055,8 @@
               {
                 "version": "1.7.6",
                 "date": "2023-04-23",
-                "localizedDescription": "🎉 越狱版 TrollRecorder JB 已上架，同一账号已购巨魔版的，越狱版可享 50% 立减折扣。\n##v1.7.6-117 更新日志##\n1.新增「快速录音」，通话过程中双击 音量➕键 可便捷开始或停止录制。\n2.修复了微信非 CallKit 通话场景下，经常出现不触发自动录音、无法手动录音的问题。\n3.新增「在锁屏界面显示」，解锁后悬浮球可以在锁屏界面上显示。\n4.新增繁体中文 ([@CaslenZ](https://github.com/CaslenZ))、法语 ([@DzMoha](https://twitter.com/contact_nadhir)) 支持。\n⚠️ 因图形合成服务 Secure Mode 限制，暂不支持在解锁前显示悬浮球。因此我们先行提供了「快速录音」功能作为手动录音的替代。敬请期待后续更新。\n🎉 感谢大家的支持与信赖，经过两个月的迭代更新，巨魔录音机现已稳定支持：电话和 FaceTime 通话、官方/官替/多开微信、其他三方应用的 CallKit 或非 CallKit 通话场景、多个连续通话的叠加与衔接录制\n请支持正版，拒绝破解！如果暂不打算入手，可以使用免费版！\n巨魔录音机将一如既往地提供稳定的、高质量的通话录音功能。\n\n##近期更新日志##\n1.新增 FaceTime、电话的联系人例外（黑白名单/自动收藏）。\n2.新增“触感反馈”选项。\n3.优化多通话场景的处理。\n4.如果通话过程中获取地理位置失败，可以在录音完成后 15 分钟内打开 App 以补充缺失的地理位置信息。\n5.SIM 卡英文或数字短别名将以小图标形式展现在录音标题末尾。\n6.黑白名单中的电话号码将格式化显示。\n7.悬浮球空闲时长现已可选 3/4/5/6 秒共四个档位。\n⚠️ 黑白名单对于官替电话无效！\n\n##TrollRecorder JB 越狱版主要区别##\n1.越狱版不能与巨魔版共存。\n2.越狱版后台服务越狱后常驻，更为稳定。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.6-117/TRApp_1.7.6-117.tipa",
+                "localizedDescription": "🎉 越狱版 TrollRecorder JB 已上架，同一账号已购巨魔版的，越狱版可享 50% 立减折扣。\n##v1.7.6-117 更新日志##\n1.新增「快速录音」，通话过程中双击 音量➕键 可便捷开始或停止录制。\n2.修复了微信非 CallKit 通话场景下，经常出现不触发自动录音、无法手动录音的问题。\n3.新增「在锁屏界面显示」，解锁后悬浮球可以在锁屏界面上显示。\n4.新增繁体中文 ([@CaslenZ](https://ghp.ci/https://github.com/CaslenZ))、法语 ([@DzMoha](https://twitter.com/contact_nadhir)) 支持。\n⚠️ 因图形合成服务 Secure Mode 限制，暂不支持在解锁前显示悬浮球。因此我们先行提供了「快速录音」功能作为手动录音的替代。敬请期待后续更新。\n🎉 感谢大家的支持与信赖，经过两个月的迭代更新，巨魔录音机现已稳定支持：电话和 FaceTime 通话、官方/官替/多开微信、其他三方应用的 CallKit 或非 CallKit 通话场景、多个连续通话的叠加与衔接录制\n请支持正版，拒绝破解！如果暂不打算入手，可以使用免费版！\n巨魔录音机将一如既往地提供稳定的、高质量的通话录音功能。\n\n##近期更新日志##\n1.新增 FaceTime、电话的联系人例外（黑白名单/自动收藏）。\n2.新增“触感反馈”选项。\n3.优化多通话场景的处理。\n4.如果通话过程中获取地理位置失败，可以在录音完成后 15 分钟内打开 App 以补充缺失的地理位置信息。\n5.SIM 卡英文或数字短别名将以小图标形式展现在录音标题末尾。\n6.黑白名单中的电话号码将格式化显示。\n7.悬浮球空闲时长现已可选 3/4/5/6 秒共四个档位。\n⚠️ 黑白名单对于官替电话无效！\n\n##TrollRecorder JB 越狱版主要区别##\n1.越狱版不能与巨魔版共存。\n2.越狱版后台服务越狱后常驻，更为稳定。",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.7.6-117/TRApp_1.7.6-117.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2065,7 +2065,7 @@
                 "version": "1.7.4",
                 "date": "2023-04-20",
                 "localizedDescription": "##Enhancements##\nLocation updates will be populated as a backup if you open the app in 15 minutes, or 1 hour, as an extra option.\n##Bug Fixes##\n1.Some known issues in enhanced call detection.\n2.Some known issues in blacklist / whitelist matching rules.\n3.Fixed an issue that the hover-ball should not become idle when it is dragged.",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.4-113/TRApp_1.7.4-113.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.7.4-113/TRApp_1.7.4-113.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2074,7 +2074,7 @@
                 "version": "1.7.2",
                 "date": "2023-04-17",
                 "localizedDescription": "##Enhancements##\n1.Location updates will be populated as a backup if you open the app in 15 minutes.\n2.Short aliases of SIM card will be displayed in the recording title as a small badge.\n3.Phone numbers in blacklist/whitelist will be formatted to display.\n4.You can now select 4 or 5 seconds to use before the hover-ball becoming idle.\n##Bug Fixes##\n1.Some inconsistency in user defaults reloading.\n2.The hover-ball grabber will be always invisible when the recording panel is shown.\n3.Network access of the app will be automatically granted for license verification.",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.2-109/TRApp_1.7.2-109.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.7.2-109/TRApp_1.7.2-109.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2083,7 +2083,7 @@
                 "version": "1.7.0",
                 "date": "2023-04-12",
                 "localizedDescription": "To reduce maintenance cost, changelogs will be published in English only from now on.\n##New Features##\n1.Blacklist / Whitelist for Automatic Recording.\n2.New option: “Haptic Feedback”. Use special patterns instead of plain vibrates.\n3.New option: Custom HUD idle interval.\n##Enhancements##\n1.Optimized layout of Settings page.\n2.Allows customized options for FaceTime and Phone App.\n3.Applications now have two sections:①System Applications (FaceTime and Phone App)、②User Applications\n##Bug Fixes##\nFixed a crash on iOS 15.1 and below.",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.7.0-101/TRApp_1.7.0-101.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.7.0-101/TRApp_1.7.0-101.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2092,7 +2092,7 @@
                 "version": "1.6.6",
                 "date": "2023-04-08",
                 "localizedDescription": "##功能改进##\n1.当通话状态发生变化时，从折叠态唤醒悬浮球。\n2.新选项 “显示 SIM 卡别名”：如果可用，显示此录音通话时所使用的 SIM 卡的简称。\n3.新选项 “显示详细通知”：在通知横幅中显示录音的详细信息。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.6.6-93/TRApp_1.6.6-93.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.6.6-93/TRApp_1.6.6-93.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2101,7 +2101,7 @@
                 "version": "1.6.4",
                 "date": "2023-04-07",
                 "localizedDescription": "##重要提示##\n1.“悬浮球” 选项卡现已拆出部分功能到 “悬浮球+” 选项卡中，仅提供给付费用户使用。\n##新功能##\n1.新选项 “闲置时动态效果”：悬浮球现已支持折叠到屏幕边缘。\n2.新选项 “用户界面风格”：强制应用程序使用浅色或深色用户界面主题。\n3.新选项 “悬浮球风格”：强制悬浮球使用浅色或深色风格。\n##功能改进##\n1.设置页面动态效果改进。\n2.“保留所有通道” 设定现已应用到录音恢复模式。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.6.4-89/TRApp_1.6.4-89.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.6.4-89/TRApp_1.6.4-89.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2110,7 +2110,7 @@
                 "version": "1.5.12",
                 "date": "2023-04-05",
                 "localizedDescription": "##问题修复##\n1.修复了指定应用程序选项可能不生效的问题。\n2.优化了授权验证机制，增设了服务器负载均衡。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.12-82/TRApp_1.5.12-82.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.12-82/TRApp_1.5.12-82.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2119,7 +2119,7 @@
                 "version": "1.5.11",
                 "date": "2023-04-04",
                 "localizedDescription": "##功能改进##\n1.添加额外的快捷指令支持。\n2.添加额外的 URL Scheme 支持：\ntrapp://hud/on: 打开悬浮窗。\ntrapp://hud/off: 关闭悬浮窗。\ntrapp://hud/toggle: 打开/关闭悬浮窗。\ntrapp://recording/on: 开始新的通话录音。\ntrapp://recording/off: 停止现有的通话录音会话。\ntrapp://recording/toggle: 开始新的录音，或停止现有的通话录音会话。\n3.选择后搜索，不再清除所有的选中项。保留搜索结果中已经选中的项目。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.11-81/TRApp_1.5.11-81.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.11-81/TRApp_1.5.11-81.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2128,7 +2128,7 @@
                 "version": "1.5.10",
                 "date": "2023-04-03",
                 "localizedDescription": "##功能改进##\n1.全新的授权界面和交互逻辑，将你的设备连接到 Havoc 账户。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.10-80/TRApp_1.5.10-80.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.10-80/TRApp_1.5.10-80.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2137,7 +2137,7 @@
                 "version": "1.5.9",
                 "date": "2023-04-02",
                 "localizedDescription": "##问题修复##\n1.为地理位置选项增加了提示文本。\n2.修复了可能导致录音无法正常保存的问题。\n3.修复了可能导致录音缓存转换失败的问题。\n4.应急模式：现在你可以先进行通话，随后再启动 App 和通话录音服务。\n5.通话录音服务将检查当前是否处于通话中，并按照配置决定是否启动自动录音。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.9-79/TRApp_1.5.9-79.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.9-79/TRApp_1.5.9-79.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2146,7 +2146,7 @@
                 "version": "1.5.8",
                 "date": "2023-04-01",
                 "localizedDescription": "##关于地理位置权限##\n你必须在系统隐私设置中为巨魔录音机选择 “始终” ，才能使用相关功能。\n##关于稳定性##\n在先前的版本中，当通话结束时，iOS 系统可能会因内存不足，干扰录音的合并与转换过程，进而导致无法生成最终期望的录音文件。由于巨魔环境的条件限制，这一问题仍然难以避免。虽然这种情形发生的概率并不高 —— 目前有数例上报。但是我们仍然非常重视并关注这一问题，并且已经采取了明确的措施来尽可能减少录音的丢失。我们深知，你的通话录音非常重要，每一条录音都不能丢失。\n此前，我们将录音缓存目录移动到了 `/var/mobile/Media` 的可见目录中，方便你提取出它们。\n在当前版本中，我们又提供了一个逃生机制：在特定情形下，你可以在 App 中合成并转换失败的录音缓存。\n很抱歉给你造成不便，我们会继续努力，重点解决这些问题。**—— 如果你需要更稳定和安全的通话录音，我们仍建议你购买一支录音笔。**\n##其他改进##\n1.录音播放器：现在你能够以单声道模式，播放组合模式下录制的通话录音。\n2.悬浮球：提供了一些预设尺寸供你选择。长按悬浮球，直接开始一段新的通话录音，或停止通话录音。\n3.网络存储：WebDAV 服务选项 “连接时保持屏幕常亮”（当 WebDAV 服务器被任何客户端使用时，避免屏幕自动锁定。当你处于 “网络存储” 设置页面时，屏幕也不会自动锁定。）\n4.性能：优化了波形图像的生成和缓存性能。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.8-78/TRApp_1.5.8-78.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.8-78/TRApp_1.5.8-78.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2155,7 +2155,7 @@
                 "version": "1.5.5",
                 "date": "2023-03-29",
                 "localizedDescription": "##细节改进##\n1.考虑到年长用户的需求，新增选项：闲置时淡化悬浮球\n2.现在录音列表支持批量导出了。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.5-72/TRApp_1.5.5-72.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.5-72/TRApp_1.5.5-72.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2164,7 +2164,7 @@
                 "version": "1.5.4",
                 "date": "2023-03-28",
                 "localizedDescription": "##新功能##\n1.新增 WebDAV 服务器。\n##细节改进##\n悬浮球现已支持闲置半透明。\n未安装 Filza 或不支持 URL Scheme 的情形下，支持从帮助弹窗复制回收站绝对路径。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.4-70/TRApp_1.5.4-70.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.4-70/TRApp_1.5.4-70.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2173,7 +2173,7 @@
                 "version": "1.5.3",
                 "date": "2023-03-27",
                 "localizedDescription": "##问题修复##\n1.改进通话状态检测：修复可能的录音不能终止的问题。\n2.改进通话状态检测：修复多通话叠加进行时，录音状态异常的问题。\n3.在其他设备上通话：修复当前设备作为其他设备的代理进行通话时，无法录音的问题。\n4.修复录音列表关于时间的描述不准确的问题。\n5.修复录音详情页地理位置缓存后，经纬度不再显示的问题。\n##其他调整##\n1.增强自动录音、悬浮球增强场景识别现已对所有人默认开启，需手动关闭。\n2.考虑许多人没有安装带 URL Scheme 功能的 Filza，回收站现已对所有人默认关闭，需手动开启。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.3-69/TRApp_1.5.3-69.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.3-69/TRApp_1.5.3-69.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2182,7 +2182,7 @@
                 "version": "1.5.2",
                 "date": "2023-03-25",
                 "localizedDescription": "##新功能组：本地存储##\n 1.回收站：\n将删除的录音移动到一个特殊的文件夹，允许你在改变主意或后来意识到需要它们时恢复已删除的项目。\n现在你可以使用具备 URL Scheme 能力的 Filza 文件管理器查看或恢复已删除的录音。\n 2.磁盘空间不足时停止录音：当剩余磁盘空间极低时，自动停止录音。\n3.自动清理缓存：定期自动删除录音失败时留下的缓存数据（30 天）。\n4.删除过期录音：自动删除早于指定日期创建的录音，除了那些被标记的录音（30 天或 90 天）。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.2-65/TRApp_1.5.2-65.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.2-65/TRApp_1.5.2-65.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2191,7 +2191,7 @@
                 "version": "1.5.1",
                 "date": "2023-03-24",
                 "localizedDescription": "##新功能##\n1.将录音标记为收藏。\n2.使用过滤器便捷查看已收藏的录音。\n##问题修复##\n1.修复了越狱环境下的一些重要问题。\n2.现在关闭 “开发者模式” 后，App 不会再闪退。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.1-60/TRApp_1.5.1-60.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.1-60/TRApp_1.5.1-60.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2200,7 +2200,7 @@
                 "version": "1.5.0",
                 "date": "2023-03-24",
                 "localizedDescription": "现已支持多开版本 App 的通话录音。\n##新功能##\n1.新增带搜索和高亮功能的应用列表\n2.原「应用程序」选项卡更名为「外观」\n3.从后台拉起时将验证 Face ID\n4.原「启用面容 ID」选项移动至「高级选项」\n5.Face ID 启用并退到后台时，主界面模糊\n为指定的应用程序设置：是否允许指定应用触发自动录音、是否允许指定应用唤醒悬浮球、使用默认配置\n##问题修复与优化##\n1.通话录音：优化增强场景识别的判断逻辑\n2.授权验证：优化授权验证的流程\n3.转录：转录结果将被缓存、优化转录错误时的提示信息、修复转录条目时间显示错乱的问题\n4.外观：优化侧滑返回手势的触发条件、优化录音详情页旋转或切换深色模式时的显示效果、优化录音列表右侧相对时间显示的文案、优化录音列表相对时间显示的刷新时机\n5.已知问题：iOS 15.0 的部分机型无法使用悬浮窗、iOS 15.6+ 的部分 iOS 15 机型无法使用开机自启",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.5.0-59/TRApp_1.5.0-59.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.5.0-59/TRApp_1.5.0-59.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2209,7 +2209,7 @@
                 "version": "1.4.7",
                 "date": "2023-03-17",
                 "localizedDescription": "##问题修复##\n1.优化授权验证交互时的部分细节\n2.修复 “增强自动录音” 和 “增强通话场景识别” 在部分场景下不精确的问题\n3.为波形预览增加位图缓存以提升复用效率\n##功能增强##\n1.录音列表现已支持自定义是否显示捆绑包名称\n2.录音列表底部现已支持显示录音数量和存储空间占用（轻按一下录音数量标签以计算存储空间占用）\n3.应用程序现已支持自定义背景样式",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.4.7-46/TRApp_1.4.7-46.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.4.7-46/TRApp_1.4.7-46.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2218,7 +2218,7 @@
                 "version": "1.4.5",
                 "date": "2023-03-15",
                 "localizedDescription": "##问题修复##\n1.修复联系人号码匹配问题，同时，新增带国际号码前缀的联系人匹配能力。\n2.缓解在频谱分析过程中播放音频的崩溃问题\n3.修复在侧滑返回过程中切换标签页 App 假死的问题\n4.修复搜索录音时列表被键盘遮挡的问题\n5.优化转录功能付费引导的部分交互细节\n##功能增强##\n1.App 内字体现已跟随系统字体大小设定\n2.应用程序现已支持自定义是否显示波形预览及录音时长\n3.发布版本采用 LZMA Zip 压缩格式以减小安装包体积。\n此版本为小修补更新，仅涉及 App 修改及界面优化，核心功能及悬浮窗完全未改。建议视自身情况选择更新。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.4.5-36/TRApp_1.4.5-36.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.4.5-36/TRApp_1.4.5-36.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2227,7 +2227,7 @@
                 "version": "1.4.1",
                 "date": "2023-03-12",
                 "localizedDescription": "1.若干界面细节调整。\n2.修复了不能按重命名结果或 CallKit 显示名称搜索录音的问题。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.4.1-30/TRApp-v1.4.1-30.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.4.1-30/TRApp-v1.4.1-30.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2236,7 +2236,7 @@
                 "version": "1.4.0",
                 "date": "2023-03-11",
                 "localizedDescription": "1.优化了 HUD 占用资源\n2.优化了音频压缩遇到问题时逃生通道的处理逻辑\n3.优化了锁屏界面 HUD 显示和逻辑\n4.优化完善了通话状态的检测逻辑（遇到没有正确录音请尝试重启设备并刷新注册缓存）\n5.优化了设备状态监测逻辑。\n6.新增转录测试版（付费功能）",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.4.0-26/TRApp-v1.4.0-26.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.4.0-26/TRApp-v1.4.0-26.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2245,7 +2245,7 @@
                 "version": "1.3.3",
                 "date": "2023-03-11",
                 "localizedDescription": "修复全选失败的问题。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.3.3-21/TRApp-v1.3.3-21.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.3.3-21/TRApp-v1.3.3-21.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2254,7 +2254,7 @@
                 "version": "1.3.2",
                 "date": "2023-03-11",
                 "localizedDescription": "##重要信息##\n1.如需启用无 CallKit 支持的通话场景的 手动录音 支持，如官方版本的 QQ、微信等，需要打开 “悬浮球” “增强通话场景识别” 选项。\n2.如需启用以上场景的 自动录音 支持，需要打开 “通话录音” “增强自动录音” 选项。\n3.启用以上两个选项：会导致部分场景下，如发送短语音、录制短视频时，悬浮球弹出或者进入录音状态，这种现象不可避免，请自行权衡利弊开启！\n##问题修复##\n1.应用内购买现已跳转到 Safari 进行。\n2.小组件左下角图标在 iOS 17 以下现在已经能正常显示。\n3.不再为移除了 URL Scheme 的 Filza 版本显示跳转入口。\n4.在通话过程中接到其他来电的场景，现在以首次接通时的通话名称为准。\n##新功能##\n1.录音临时文件目录更换为用户可见路径\n2.（逃生通道已开启）如果录音意外保存失败，用户可以在临时目录找到原始音频文件。\n##应用程序##\n1.新增录音 ”重命名“ 功能。—— 现在你可以在录音详情页面点击右上角，为当前录音设置一个新的自定义名称。\n2.录音列表新增 “全选”、“反选” 功能。\n3.录音列表不再支持过长的音频波形预览。\n4.调整了共享音频时的默认文件名称。\n5.现已支持在应用程序内检查来自 GitHub 发布页的更新。\n6.进入应用程序时，Face ID / Touch ID 认证现已支持重试。\n##悬浮球##\n1.新增 “增强通话场景识别” 选项。—— 默认为关闭状态，如需在无 CallKit 支持的通话场景下显示悬浮球，可以开启该选项。需要注意的是，在可以预见的未来内，无 CallKit 支持的通话场景识别都不会很准确。如果启用此选项，会出现悬浮球在预期之外的时间弹出。\n##混音器与合并器##\n1.新增 “保留所有通道” 选项。—— 录音结束时，保留录音期间每个通道的原始音频文件。占用大量存储空间，请谨慎开启。\n2.新增混音器音频格式：高级音频编码 (AAC) 或 未压缩 (PCM)。\n3.付费用户可以选择 “未压缩 (PCM)” 格式，获得原始音频数据 —— 此选项会占用较多存储空间，请谨慎选择。\n##开发者呼吁##\n普通用户只需使用默认的 MPEG-4 音频 (m4a) 搭配 高级音频编码 (AAC) 即可，不要更改自己不了解的选项。\n##国际化##\n新增西班牙语支持，提供者：Deci8BelioS。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.3.2-20/TRApp_1.3.2-20.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.3.2-20/TRApp_1.3.2-20.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2263,7 +2263,7 @@
                 "version": "1.2.1",
                 "date": "2023-03-09",
                 "localizedDescription": "首次发布，修复证书问题。",
-                "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v1.2.1-6/TRApp_1.2.1-6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollRecorder/releases/download/v1.2.1-6/TRApp_1.2.1-6.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2277,17 +2277,17 @@
           "developerName": "Lessica(i_82)",
           "subtitle": "AIn-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).",
           "localizedDescription": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollFools.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollFools.png",
           "tintColor": "#0082ff",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollFools.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollFools.png"
           ],
           "versions": [
               {
                 "version": "2.7-9",
                 "date": "2024-09-26",
                 "localizedDescription": "Bug Fixes\n1.Now application without a short version string will be displayed in the list.\n2.The auto-correction for the app search has been disabled.\n\nLanguages\nAdded Vietnamese.",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.7-9/TrollFools14_2.7-9.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.7-9/TrollFools14_2.7-9.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2296,7 +2296,7 @@
                 "version": "2.6-8",
                 "date": "2024-09-12",
                 "localizedDescription": "主要更新\n没有短版本号的应用程序现已能够在列表中显示。\n合入越南语支持。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.6-8/TrollFools14_2.6-8.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.6-8/TrollFools14_2.6-8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2305,7 +2305,7 @@
                 "version": "2.6-6",
                 "date": "2024-08-19",
                 "localizedDescription": "不再需要 “开发者模式” 以访问 iCloud 云盘中的文件。\n修复上一版本中因大小写判断错误导致部分插件注入闪退的问题。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.6-6/TrollFools14_2.6-6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.6-6/TrollFools14_2.6-6.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2314,7 +2314,7 @@
                 "version": "2.5-3",
                 "date": "2024-08-18",
                 "localizedDescription": "不再需要 “开发者模式” 以访问 iCloud 云盘中的文件。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.5-3/TrollFools14_2.5-3.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.5-3/TrollFools14_2.5-3.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2323,7 +2323,7 @@
                 "version": "2.5-2",
                 "date": "2024-07-28",
                 "localizedDescription": "##主要更新##\n为各 App 新增高级选项：\n创建弱引用，默认打开\n优先处理主要可执行文件，默认关闭\n\n如果你不知道上述选项的含义，请不要修改。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.5-2/TrollFools14_2.5-2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.5-2/TrollFools14_2.5-2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2332,7 +2332,7 @@
                 "version": "2.4-2",
                 "date": "2024-07-27",
                 "localizedDescription": "##主要更新##\n长按 App 新增版本锁定/解锁功能：\nApp 版本更新后会移除注入，所以增加这一小功能\n需要在 TrollStore 中重建图标缓存使修改生效",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.4-2/TrollFools14_2.4-2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.4-2/TrollFools14_2.4-2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2341,7 +2341,7 @@
                 "version": "2.4-1",
                 "date": "2024-07-24",
                 "localizedDescription": "##主要更新##\n注册 App 安装、卸载事件通知并自动刷新列表\n新增 App 长按动作菜单：「启动」和「在 Filza 中显示」\n新增插件长按动作菜单：「在 Filza 中显示」：\n⚠️「在 Filza 中显示」需要安装有支持 URL Scheme 的 Filza",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.4-1/TrollFools14_2.4-1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.4-1/TrollFools14_2.4-1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2350,7 +2350,7 @@
                 "version": "2.3-5",
                 "date": "2024-07-23",
                 "localizedDescription": "##主要更新##\n完善动画细节\n修复「计算器」、「邮件」等 App 的修补支持\n为目标二进制添加修补 LC_RPATH\n\n##小插件##\nFLEX.zip 是一个调试用的工具条，注入后摇一摇呼出\nTouchVis.dylib 和 TouchVis.CaptureOnly.dylib 是一个调试用的触摸指示器，前者一直显示，后者录屏时才显示",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.3-5/TrollFools14_2.3-5.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.3-5/TrollFools14_2.3-5.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2359,7 +2359,7 @@
                 "version": "2.3-2",
                 "date": "2024-07-22",
                 "localizedDescription": "##主要更新##\n支持巨魔商店应用注入\n支持 可移除的 系统应用注入\n\n##补充说明##\n支持从 Mach-O 中读取 Team ID 实现巨魔商店应用二次注入\n增加 arm64e 后，支持 可移除的 系统应用注入",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.3-2/TrollFools14_2.3-2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.3-2/TrollFools14_2.3-2.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2368,7 +2368,7 @@
                 "version": "2.1",
                 "date": "2024-07-22",
                 "localizedDescription": "##主要更新##\n使用 install_name_tool 替代 llvm-install-name-tool\n缩减安装包体积 (26.9M -> 3.0M)\n\n##已知问题##\n轻点搜索框，App 闪退：\n解决方法：关闭「粗体文本」\n\n##声明##\n此工具有较强的技术局限性，它并不能如同越狱一样工作。（为避免误解，不会再加入 .deb 格式支持。）\n不支持注入巨魔 App，注入了也会闪退。所以应用列表不会再显示巨魔 App，不要再问了。\nTrollFools14_2.1-6.fix3.tipa 为 iOS 14 专用版本（不支持搜索），后续也不再更新。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.1-6/TrollFools14_2.1-6.fix3.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.1-6/TrollFools14_2.1-6.fix3.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2377,7 +2377,7 @@
                 "version": "1.3",
                 "date": "2024-07-20",
                 "localizedDescription": "早期可能会遇到错误代码、闪退等问题，发出来才能得到快速反馈和修补，所以更新发布较快，造成的打扰敬请谅解。\n\n##主要更新##\nApp 图标更新\n修复 ct_bypass 错误代码 255\n修复 部分 插件注入后闪退的问题",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v1.3-9/TrollFools14_1.3-9.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v1.3-9/TrollFools14_1.3-9.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2386,7 +2386,7 @@
                 "version": "1.2",
                 "date": "2024-07-20",
                 "localizedDescription": "##Major Changes##\nInitial iOS 14 support.\nHides libswift from tweaks list.\n\n##iOS 14 说明##\n请安装 TrollFools14_1.2-6.tipa。可能会遇到 llvm-install-name-tool 错误代码 6 的问题，请等待更新。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v1.2-6/TrollFools14_1.2-6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v1.2-6/TrollFools14_1.2-6.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2395,7 +2395,7 @@
                 "version": "1.1",
                 "date": "2024-07-20",
                 "localizedDescription": "Initial version.",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v1.1-4/TrollFools_1.1-4.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v1.1-4/TrollFools_1.1-4.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2409,17 +2409,17 @@
           "developerName": "Lessica(i_82)",
           "subtitle": "AIn-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).",
           "localizedDescription": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollFools.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/TrollFools.png",
           "tintColor": "#0082ff",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollFools.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/TrollFools.png"
           ],
           "versions": [
               {
                 "version": "2.7-9",
                 "date": "2024-09-26",
                 "localizedDescription": "Bug Fixes\n1.Now application without a short version string will be displayed in the list.\n2.The auto-correction for the app search has been disabled.\n\nLanguages\nAdded Vietnamese.",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.7-9/TrollFools_2.7-9.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.7-9/TrollFools_2.7-9.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2428,7 +2428,7 @@
                 "version": "2.6-8",
                 "date": "2024-09-12",
                 "localizedDescription": "主要更新\n没有短版本号的应用程序现已能够在列表中显示。\n合入越南语支持。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.6-8/TrollFools_2.6-8.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.6-8/TrollFools_2.6-8.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2437,7 +2437,7 @@
                 "version": "2.6-6",
                 "date": "2024-08-19",
                 "localizedDescription": "不再需要 “开发者模式” 以访问 iCloud 云盘中的文件。\n修复上一版本中因大小写判断错误导致部分插件注入闪退的问题。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.6-6/TrollFools_2.6-6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.6-6/TrollFools_2.6-6.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2446,7 +2446,7 @@
                 "version": "2.5-3",
                 "date": "2024-08-18",
                 "localizedDescription": "不再需要 “开发者模式” 以访问 iCloud 云盘中的文件。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.5-3/TrollFools_2.5-3.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.5-3/TrollFools_2.5-3.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2455,7 +2455,7 @@
                 "version": "2.5-2",
                 "date": "2024-07-28",
                 "localizedDescription": "##主要更新##\n为各 App 新增高级选项：\n创建弱引用，默认打开\n优先处理主要可执行文件，默认关闭\n\n如果你不知道上述选项的含义，请不要修改。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.5-2/TrollFools_2.5-2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.5-2/TrollFools_2.5-2.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2464,7 +2464,7 @@
                 "version": "2.4-2",
                 "date": "2024-07-27",
                 "localizedDescription": "##主要更新##\n长按 App 新增版本锁定/解锁功能：\nApp 版本更新后会移除注入，所以增加这一小功能\n需要在 TrollStore 中重建图标缓存使修改生效",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.4-2/TrollFools_2.4-2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.4-2/TrollFools_2.4-2.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2473,7 +2473,7 @@
                 "version": "2.4-1",
                 "date": "2024-07-24",
                 "localizedDescription": "##主要更新##\n注册 App 安装、卸载事件通知并自动刷新列表\n新增 App 长按动作菜单：「启动」和「在 Filza 中显示」\n新增插件长按动作菜单：「在 Filza 中显示」：\n⚠️「在 Filza 中显示」需要安装有支持 URL Scheme 的 Filza",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.4-1/TrollFools_2.4-1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.4-1/TrollFools_2.4-1.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2482,7 +2482,7 @@
                 "version": "2.3-5",
                 "date": "2024-07-23",
                 "localizedDescription": "##主要更新##\n完善动画细节\n修复「计算器」、「邮件」等 App 的修补支持\n为目标二进制添加修补 LC_RPATH\n\n##小插件##\nFLEX.zip 是一个调试用的工具条，注入后摇一摇呼出\nTouchVis.dylib 和 TouchVis.CaptureOnly.dylib 是一个调试用的触摸指示器，前者一直显示，后者录屏时才显示",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.3-5/TrollFools_2.3-5.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.3-5/TrollFools_2.3-5.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2491,7 +2491,7 @@
                 "version": "2.3-2",
                 "date": "2024-07-22",
                 "localizedDescription": "##主要更新##\n支持巨魔商店应用注入\n支持 可移除的 系统应用注入\n\n##补充说明##\n支持从 Mach-O 中读取 Team ID 实现巨魔商店应用二次注入\n增加 arm64e 后，支持 可移除的 系统应用注入",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.3-2/TrollFools_2.3-2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.3-2/TrollFools_2.3-2.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2500,7 +2500,7 @@
                 "version": "2.1",
                 "date": "2024-07-22",
                 "localizedDescription": "##主要更新##\n使用 install_name_tool 替代 llvm-install-name-tool\n缩减安装包体积 (26.9M -> 3.0M)\n\n##已知问题##\n轻点搜索框，App 闪退：\n解决方法：关闭「粗体文本」\n\n##声明##\n此工具有较强的技术局限性，它并不能如同越狱一样工作。（为避免误解，不会再加入 .deb 格式支持。）\n不支持注入巨魔 App，注入了也会闪退。所以应用列表不会再显示巨魔 App，不要再问了。\nTrollFools14_2.1-6.fix3.tipa 为 iOS 14 专用版本（不支持搜索），后续也不再更新。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.1-6/TrollFools_2.1-6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.1-6/TrollFools_2.1-6.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2509,7 +2509,7 @@
                 "version": "2.0",
                 "date": "2024-07-22",
                 "localizedDescription": "只支持 App Store 上的 部分 App。不支持无 Framework 的 App，不支持巨魔安装的 App，不支持「爱啪思道」安装的 App，不支持其他各种类型安装的 App。不支持的 App 不会显示！还有很多其他办法可以用！比如半越狱，比如轻松签，比如砸壳重签！！不要盯着这一个工具！！！\n\n##主要更新##\n当前支持文件格式：bundle/dylib/framework/zip（zip 当前仅支持顶层目录，不支持嵌套）\n修复文件权限为 _installd\n「应用程序」列表页支持下拉刷新\n「推出」页支持搜索\n「全部推出」新增处理动画",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v2.0-2/TrollFools_2.0-2.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v2.0-2/TrollFools_2.0-2.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2518,7 +2518,7 @@
                 "version": "1.3",
                 "date": "2024-07-20",
                 "localizedDescription": "早期可能会遇到错误代码、闪退等问题，发出来才能得到快速反馈和修补，所以更新发布较快，造成的打扰敬请谅解。\n\n##主要更新##\nApp 图标更新\n修复 ct_bypass 错误代码 255\n修复 部分 插件注入后闪退的问题",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v1.3-9/TrollFools_1.3-9.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v1.3-9/TrollFools_1.3-9.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2527,7 +2527,7 @@
                 "version": "1.2",
                 "date": "2024-07-20",
                 "localizedDescription": "##Major Changes##\nInitial iOS 14 support.\nHides libswift from tweaks list.\n\n##iOS 14 说明##\n请安装 TrollFools14_1.2-6.tipa。可能会遇到 llvm-install-name-tool 错误代码 6 的问题，请等待更新。",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v1.2-6/TrollFools_1.2-6.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v1.2-6/TrollFools_1.2-6.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2536,7 +2536,7 @@
                 "version": "1.1",
                 "date": "2024-07-20",
                 "localizedDescription": "Initial version.",
-                "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v1.1-4/TrollFools_1.1-4.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lessica/TrollFools/releases/download/v1.1-4/TrollFools_1.1-4.tipa",
                 "size": 331000,
                 "minOSVersion": "15.0",
                 "maxOSVersion": "17.0"
@@ -2550,17 +2550,17 @@
           "developerName": "Lakr233",
           "subtitle": "就是有多账号支持的 App Store 辅助工具。不能替代 App Store 但是够你用了。\n开源仓库的项目已归档，不再提供任何技术支持或需求更新。如有问题，请自行解决。",
           "localizedDescription": "就是有多账号支持的 App Store 辅助工具。不能替代 App Store 但是够你用了。\n开源仓库的项目已归档，不再提供任何技术支持或需求更新。如有问题，请自行解决。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Asspp.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Asspp.png",
           "tintColor": "#448ee2",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Asspp.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Asspp.png"
           ],
           "versions": [
               {
                 "version": "1.2",
                 "date": "2024-07-13",
                 "localizedDescription": "NO TECH SUPPORT, DO IT YOURSELF\n\nTiny Adjustment\nSource code is closed to my friends. Opened this version only.\nTo avoid trust issue, packages are provided with it's dSYM.\nYou are free to investigate or exam the binary.\n\nUPDATE PATCH-1\nAsspp.2024-7-14.23.17.xcarchive.zip was updated to address i18n issue.\nFixed English Localization\nBinary not changed",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240803/Asspp_1.2.10.ipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240803/Asspp_1.2.10.ipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "17.0"
@@ -2574,17 +2574,17 @@
           "developerName": "HAHALOSAH",
           "subtitle": "Apple Watch 配对神器，支持TrollStore全版本。",
           "localizedDescription": "Apple Watch 配对神器，支持TrollStore全版本。",
-          "iconURL": "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Zomigle.png",
+          "iconURL": "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/icons/Zomigle.png",
           "tintColor": "#a9cfd5",
           "screenshotURLs": [
-              "https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Zomigle.png"
+              "https://ghp.ci/https://raw.githubusercontent.com/Lengran1992/.TrollApps-sources/main/screenshots/Zomigle.png"
           ],
           "versions": [
               {
                 "version": "1.0",
                 "date": "2024-03-02",
                 "localizedDescription": "首次发布",
-                "downloadURL": "https://github.com/Lengran1992/TrollApps/releases/download/20240320/xyz.hhls.zomigle_0.1.0-beta1.tipa",
+                "downloadURL": "https://ghp.ci/https://github.com/Lengran1992/TrollApps/releases/download/20240320/xyz.hhls.zomigle_0.1.0-beta1.tipa",
                 "size": 331000,
                 "minOSVersion": "14.0",
                 "maxOSVersion": "16.6.1"
